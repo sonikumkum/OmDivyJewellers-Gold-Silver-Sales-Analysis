@@ -1,0 +1,1001 @@
+sale_id,bill_no,sale_date,customer_name,product_name,metal,weight_gm,rate_per_gm,making_charge,gst,total_amount,payment_mode
+1,B1001,2025-01-05,"Rahul Sharma","Gold Ring",Gold,5.25,9200.00,3000.00,2754.00,54054.00,UPI
+2,B1002,2025-01-06,"Priya Verma","Silver Payal",Silver,40.00,95.00,500.00,194.00,4494.00,Cash
+3,B1002,2025-01-06,"Priya Verma","Silver Payal",Silver,40.00,95.00,500.00,194.00,4494.00,Cash
+4,B1002,2025-01-06,"Priya Verma","Silver Payal",Silver,40.00,95.00,500.00,194.00,4494.00,Cash
+5,B1001,2025-10-20,"Harini Dada","Gold Earrings",Gold,9.47,6895.00,1443.00,2002.16,68740.81,Cash
+6,B1002,2025-11-16,"Tanish Kuruvilla","Silver Coin",Silver,90.35,95.00,408.00,269.74,9260.99,"Bank Transfer"
+7,B1003,2024-10-19,"Patrick Balasubramanian","Silver Ring",Silver,67.29,116.00,722.00,255.83,8783.47,Cash
+8,B1004,2026-03-08,"Eiravati Gandhi","Silver Payal",Silver,60.62,110.00,429.00,212.92,7310.12,Card
+9,B1005,2025-10-14,"Jai Mukherjee","Gold Chain",Gold,10.40,6816.00,3443.00,2229.88,76559.28,"Bank Transfer"
+10,B1006,2026-04-27,"Kala Rana","Silver Ring",Silver,67.10,71.00,823.00,167.61,5754.71,"Bank Transfer"
+11,B1007,2025-08-06,"Karan Sidhu","Gold Earrings",Gold,3.74,6825.00,3412.00,868.12,29805.62,Card
+12,B1008,2025-06-21,"Lajita Raja","Silver Coin",Silver,57.68,111.00,335.00,202.12,6939.60,"Bank Transfer"
+13,B1009,2025-11-17,"Rajata Ben","Silver Coin",Silver,79.05,91.00,670.00,235.91,8099.46,Card
+14,B1010,2025-03-15,"Yash Ravi","Gold Necklace",Gold,12.28,6003.00,1195.00,2247.36,77159.20,Card
+15,B1011,2024-09-16,"David Raghavan","Silver Coin",Silver,45.90,91.00,934.00,153.33,5264.23,Cash
+16,B1012,2026-04-12,"Robert Dey","Silver Payal",Silver,19.15,80.00,144.00,50.28,1726.28,Card
+17,B1013,2026-06-30,"Naveen Mitter","Silver Coin",Silver,94.06,79.00,403.00,235.01,8068.75,Cash
+18,B1014,2025-06-18,"Zehaan Rajagopal","Silver Ring",Silver,58.07,102.00,781.00,201.12,6905.26,"Bank Transfer"
+19,B1015,2024-12-05,"Balendra Barad","Gold Chain",Gold,14.73,6800.00,3270.00,3103.02,106537.02,"Bank Transfer"
+20,B1016,2026-05-03,"Benjamin Saha","Silver Coin",Silver,74.89,87.00,430.00,208.36,7153.79,UPI
+21,B1017,2024-12-09,"Utkarsh Mittal","Gold Earrings",Gold,2.39,6037.00,3936.00,550.93,18915.36,Cash
+22,B1018,2026-04-11,"Bimala Menon","Silver Chain",Silver,15.97,96.00,166.00,50.97,1750.09,UPI
+23,B1019,2026-04-21,"Vedika Sule","Silver Ring",Silver,25.69,98.00,709.00,96.80,3323.42,Card
+24,B1020,2026-06-24,"Qarin Ratta","Silver Ring",Silver,70.51,109.00,943.00,258.86,8887.45,UPI
+25,B1021,2026-01-03,"Nirja Parsa","Silver Coin",Silver,33.89,74.00,202.00,81.30,2791.16,Cash
+26,B1022,2026-03-16,"Avni Mane","Gold Earrings",Gold,11.76,7032.00,4523.00,2616.58,89835.90,Cash
+27,B1023,2025-07-14,"Bhavika Dey","Gold Earrings",Gold,17.91,6137.00,2422.00,3370.07,115705.74,"Bank Transfer"
+28,B1024,2026-01-19,"Laksh Purohit","Silver Chain",Silver,81.28,86.00,993.00,239.49,8222.57,"Bank Transfer"
+29,B1025,2025-09-17,"Vritti Bhagat","Silver Payal",Silver,10.53,118.00,513.00,52.67,1808.21,Card
+30,B1026,2026-03-10,"Yutika Palan","Gold Chain",Gold,6.31,5899.00,3408.00,1218.92,41849.61,"Bank Transfer"
+31,B1027,2024-12-30,"Abhiram Bora","Gold Ring",Gold,13.98,5895.00,3621.00,2580.99,88614.09,Cash
+32,B1028,2025-10-04,"Wriddhish Batra","Silver Coin",Silver,71.43,115.00,492.00,261.19,8967.64,Cash
+33,B1029,2025-10-17,"Mitali Sura","Gold Earrings",Gold,16.58,6181.00,2736.00,3156.51,108373.49,Cash
+34,B1030,2025-07-16,"Amara Korpal","Gold Earrings",Gold,17.16,6105.00,2483.00,3217.34,110462.14,UPI
+35,B1031,2025-01-14,"Benjamin Sethi","Gold Necklace",Gold,13.77,7093.00,2795.00,3013.97,103479.58,Cash
+36,B1032,2025-05-22,"Mahika Ratti","Gold Earrings",Gold,19.22,7178.00,2001.00,4198.86,144161.02,Cash
+37,B1033,2025-03-21,"Kavya Kara","Gold Ring",Gold,13.17,7189.00,4657.00,2980.08,102316.21,Cash
+38,B1034,2026-04-22,"Harita Sekhon","Silver Payal",Silver,51.96,115.00,354.00,189.88,6519.28,"Bank Transfer"
+39,B1035,2024-12-04,"Devansh Hora","Silver Payal",Silver,95.15,95.00,368.00,282.22,9689.47,Cash
+40,B1036,2025-01-23,"Isaac Sibal","Gold Chain",Gold,18.41,6784.00,3336.00,3846.88,132076.32,"Bank Transfer"
+41,B1037,2025-09-02,"Rachita Sridhar","Silver Ring",Silver,49.40,104.00,537.00,170.24,5844.84,Card
+42,B1038,2025-05-08,"Divya Tata","Gold Necklace",Gold,8.00,7149.00,2495.00,1790.61,61477.61,"Bank Transfer"
+43,B1039,2025-01-08,"Warda Narula","Silver Ring",Silver,10.13,75.00,820.00,47.39,1627.14,Card
+44,B1040,2026-03-12,"Utkarsh Bhasin","Gold Earrings",Gold,19.40,6002.00,1584.00,3540.68,121563.48,UPI
+45,B1041,2024-09-19,"Ekanta Chana","Gold Necklace",Gold,19.93,6346.00,1587.00,3841.88,131904.66,Card
+46,B1042,2026-04-29,"Ansh Tata","Silver Ring",Silver,16.52,83.00,361.00,51.96,1784.12,Cash
+47,B1043,2025-10-02,"Jason Barman","Silver Chain",Silver,44.45,77.00,333.00,112.67,3868.32,UPI
+48,B1044,2024-11-13,"Zayyan Bobal","Silver Payal",Silver,26.77,81.00,439.00,78.22,2685.59,Card
+49,B1045,2026-06-08,"Shivansh Master","Silver Chain",Silver,38.21,110.00,702.00,147.15,5052.25,UPI
+50,B1046,2025-11-22,"Nathan Pillai","Gold Earrings",Gold,16.21,6268.00,4888.00,3194.77,109687.05,"Bank Transfer"
+51,B1047,2024-09-02,"Wahab Grover","Gold Necklace",Gold,10.34,6284.00,1940.00,2007.50,68924.06,UPI
+52,B1048,2025-01-24,"Devansh Dar","Silver Payal",Silver,40.36,70.00,318.00,94.30,3237.50,Card
+53,B1049,2024-09-26,"Zaid Walia","Gold Ring",Gold,12.47,6478.00,1296.00,2462.30,84538.96,Cash
+54,B1050,2024-12-13,"Mekhala Nagarajan","Gold Ring",Gold,4.11,6733.00,2760.00,912.98,31345.61,UPI
+55,B1051,2025-01-09,"Odika Chakrabarti","Silver Ring",Silver,65.76,113.00,403.00,235.02,8068.90,Cash
+56,B1052,2026-01-28,"Ranbir Sunder","Gold Necklace",Gold,10.51,6211.00,2017.00,2018.84,69313.45,Card
+57,B1053,2025-12-01,"Udant Jani","Silver Payal",Silver,79.69,89.00,993.00,242.56,8327.97,"Bank Transfer"
+58,B1054,2024-09-03,"Naveen Sahota","Silver Chain",Silver,96.74,115.00,858.00,359.49,12342.59,"Bank Transfer"
+59,B1055,2025-02-07,"Fitan Morar","Silver Ring",Silver,76.56,82.00,988.00,217.98,7483.90,Cash
+60,B1056,2024-12-11,"Gagan Chana","Gold Chain",Gold,5.80,5993.00,2033.00,1103.77,37896.17,"Bank Transfer"
+61,B1057,2025-03-01,"Maanas Vora","Silver Coin",Silver,16.60,120.00,119.00,63.33,2174.33,Cash
+62,B1058,2024-10-13,"Reva Kibe","Silver Chain",Silver,13.93,96.00,851.00,65.65,2253.93,UPI
+63,B1059,2025-07-10,"Mohammed Rattan","Silver Payal",Silver,72.13,91.00,292.00,205.67,7061.50,Cash
+64,B1060,2024-11-05,"Jairaj Vyas","Gold Necklace",Gold,16.51,6893.00,2241.00,3481.33,119525.76,UPI
+65,B1061,2024-11-09,"Noah Yadav","Gold Earrings",Gold,13.68,7110.00,1208.00,2954.18,101426.98,Cash
+66,B1062,2026-06-26,"Vidhi Bera","Silver Coin",Silver,48.15,99.00,497.00,157.92,5421.77,Cash
+67,B1063,2026-06-25,"Oliver Bava","Gold Chain",Gold,8.23,6180.00,4956.00,1674.52,57491.92,Cash
+68,B1064,2025-09-01,"Janya Nair","Silver Payal",Silver,86.13,78.00,438.00,214.68,7370.82,"Bank Transfer"
+69,B1065,2024-11-25,"Xavier Bahl","Silver Ring",Silver,53.46,100.00,344.00,170.70,5860.70,UPI
+70,B1066,2026-05-31,"Girish Roy","Gold Chain",Gold,13.11,6455.00,2660.00,2618.55,89903.60,Cash
+71,B1067,2025-07-08,"Kalpit Dugar","Gold Ring",Gold,11.40,6731.00,2748.00,2384.44,81865.84,"Bank Transfer"
+72,B1068,2025-07-11,"Ira Ahluwalia","Silver Chain",Silver,90.05,77.00,404.00,220.14,7557.99,Cash
+73,B1069,2025-01-06,"Siya Dutt","Silver Payal",Silver,21.11,70.00,718.00,65.87,2261.57,"Bank Transfer"
+74,B1070,2025-09-11,"Vedika Pandya","Silver Coin",Silver,14.05,71.00,826.00,54.71,1878.26,"Bank Transfer"
+75,B1071,2024-10-08,"Udarsh Randhawa","Silver Chain",Silver,54.35,97.00,789.00,181.83,6242.78,Cash
+76,B1072,2025-04-21,"Advika Kata","Silver Coin",Silver,10.55,114.00,497.00,50.99,1750.69,UPI
+77,B1073,2026-03-05,"Christopher Chand","Gold Chain",Gold,3.20,6832.00,4410.00,788.17,27060.57,"Bank Transfer"
+78,B1074,2025-07-01,"Indali Mannan","Gold Chain",Gold,12.73,7028.00,4197.00,2809.90,96473.34,Card
+79,B1075,2026-04-17,"Parth Bhatia","Gold Earrings",Gold,17.26,6758.00,3597.00,3607.20,123847.28,UPI
+80,B1076,2025-11-13,"Teerth Palan","Gold Earrings",Gold,6.59,6844.00,2193.00,1418.85,48713.81,UPI
+81,B1077,2025-12-21,"Mitesh Baria","Silver Payal",Silver,10.70,70.00,644.00,41.79,1434.79,Cash
+82,B1078,2024-09-21,"Kala Koshy","Gold Chain",Gold,11.33,5965.00,3934.00,2145.52,73662.97,Card
+83,B1079,2026-02-02,"Leena Oza","Gold Chain",Gold,3.98,6043.00,1966.00,780.51,26797.65,Cash
+84,B1080,2026-06-06,"Chatura Balakrishnan","Silver Payal",Silver,62.62,117.00,781.00,243.23,8350.77,"Bank Transfer"
+85,B1081,2025-09-07,"Dipta Arora","Gold Ring",Gold,18.56,5893.00,1481.00,3325.65,114180.73,Cash
+86,B1082,2025-09-23,"Dhruv Bal","Gold Earrings",Gold,17.47,7140.00,1020.00,3772.67,129528.47,Cash
+87,B1083,2025-12-03,"Rajata Nagarajan","Gold Ring",Gold,18.43,5976.00,2344.00,3374.45,115856.13,UPI
+88,B1084,2024-11-07,"Kalpit Chokshi","Silver Payal",Silver,90.93,91.00,906.00,275.42,9456.05,Cash
+89,B1085,2025-12-14,"Zayyan Viswanathan","Silver Ring",Silver,26.77,118.00,421.00,107.40,3687.26,Card
+90,B1086,2025-01-30,"Kiaan Lala","Gold Earrings",Gold,9.27,6145.00,3535.00,1814.97,62314.12,"Bank Transfer"
+91,B1087,2026-05-10,"Kamya Thakur","Silver Payal",Silver,50.17,101.00,813.00,176.41,6056.58,UPI
+92,B1088,2025-06-25,"Mahika Joshi","Silver Chain",Silver,78.04,70.00,554.00,180.50,6197.30,UPI
+93,B1089,2025-08-15,"Vinaya Singhal","Gold Chain",Gold,18.56,5826.00,4971.00,3393.05,116494.61,"Bank Transfer"
+94,B1090,2024-09-24,"Janya Raval","Gold Chain",Gold,4.62,6305.00,3233.00,970.86,33332.96,Card
+95,B1091,2024-10-21,"Warinder Seth","Silver Chain",Silver,21.75,102.00,931.00,94.48,3243.98,Card
+96,B1092,2026-05-25,"Hardik Lad","Silver Payal",Silver,69.73,100.00,841.00,234.42,8048.42,"Bank Transfer"
+97,B1093,2024-08-04,"Daksha Cheema","Silver Payal",Silver,88.00,104.00,213.00,280.95,9645.95,"Bank Transfer"
+98,B1094,2025-05-23,"Pranav Ram","Silver Coin",Silver,52.88,72.00,485.00,128.77,4421.13,Cash
+99,B1095,2024-11-10,"Daksha Handa","Silver Payal",Silver,44.56,84.00,457.00,126.00,4326.04,Cash
+100,B1096,2025-03-02,"Wishi Varty","Gold Chain",Gold,19.03,7085.00,3550.00,4151.33,142528.88,Card
+101,B1097,2024-11-29,"Urvashi Gokhale","Gold Earrings",Gold,2.35,6448.00,2959.00,543.35,18655.15,Cash
+102,B1098,2025-12-17,"Chaitanya Kar","Silver Coin",Silver,84.97,115.00,316.00,302.63,10390.18,UPI
+103,B1099,2025-06-10,"Veer Srinivas","Silver Payal",Silver,78.05,104.00,644.00,262.84,9024.04,Cash
+104,B1100,2026-05-13,"Bhavini Bobal","Silver Coin",Silver,76.68,79.00,751.00,204.26,7012.98,"Bank Transfer"
+105,B1101,2026-03-02,"Rehaan Parmer","Silver Payal",Silver,98.84,103.00,280.00,313.82,10774.34,"Bank Transfer"
+106,B1102,2024-07-30,"Vedant Varkey","Gold Necklace",Gold,2.02,6673.00,3042.00,495.64,17017.10,"Bank Transfer"
+107,B1103,2024-11-20,"Upkaar Loyal","Gold Chain",Gold,11.86,7161.00,4643.00,2687.17,92259.63,"Bank Transfer"
+108,B1104,2025-02-10,"Nikita Kakar","Gold Earrings",Gold,16.91,6558.00,1062.00,3358.73,115316.51,Cash
+109,B1105,2026-07-12,"Jalsa Som","Gold Earrings",Gold,2.50,6002.00,4421.00,582.78,20008.78,"Bank Transfer"
+110,B1106,2024-11-26,"Ronith Gokhale","Silver Payal",Silver,73.00,78.00,827.00,195.63,6716.63,Cash
+111,B1107,2025-12-22,"Zilmil Vala","Gold Necklace",Gold,18.96,6505.00,4935.00,3848.09,132117.89,UPI
+112,B1108,2025-04-29,"Vasudha Rana","Gold Necklace",Gold,9.93,7186.00,1258.00,2178.45,74793.43,Card
+113,B1109,2026-04-21,"Girish Shan","Silver Chain",Silver,10.60,108.00,951.00,62.87,2158.67,"Bank Transfer"
+114,B1110,2024-07-30,"Vihaan Ahuja","Gold Ring",Gold,5.22,7178.00,3861.00,1239.90,42570.06,"Bank Transfer"
+115,B1111,2025-10-24,"Naveen Pant","Silver Ring",Silver,11.86,115.00,977.00,70.23,2411.13,Card
+116,B1112,2025-10-10,"Vidhi Bala","Silver Coin",Silver,44.72,112.00,981.00,179.69,6169.33,Cash
+117,B1113,2025-03-13,"Fiyaz Sarna","Silver Ring",Silver,71.46,73.00,925.00,184.25,6325.83,"Bank Transfer"
+118,B1114,2026-06-01,"Chanchal Memon","Silver Coin",Silver,76.16,73.00,548.00,183.23,6290.91,UPI
+119,B1115,2025-11-26,"Nidra Dara","Gold Chain",Gold,14.52,6251.00,4824.00,2867.66,98456.18,Card
+120,B1116,2025-10-29,"Baljiwan Khurana","Gold Earrings",Gold,14.08,6969.00,1716.00,2995.19,102834.71,Cash
+121,B1117,2025-05-14,"Chaman Sanghvi","Silver Ring",Silver,75.42,119.00,491.00,283.98,9749.96,"Bank Transfer"
+122,B1118,2024-12-23,"Tejas Pradhan","Gold Necklace",Gold,4.30,7126.00,2511.00,994.58,34147.38,"Bank Transfer"
+123,B1119,2024-08-21,"Zehaan Sarna","Silver Payal",Silver,78.54,71.00,783.00,190.78,6550.12,"Bank Transfer"
+124,B1120,2025-05-23,"Reyansh Sekhon","Gold Necklace",Gold,11.58,6475.00,4512.00,2384.78,81877.28,Card
+125,B1121,2025-06-22,"Dalaja Kibe","Gold Earrings",Gold,2.68,6886.00,1548.00,600.07,20602.55,UPI
+126,B1122,2025-11-23,"Sathvik Dhawan","Silver Chain",Silver,60.56,100.00,949.00,210.15,7215.15,Card
+127,B1123,2025-03-01,"Frado Khare","Gold Ring",Gold,13.71,6636.00,3633.00,2838.38,97450.94,Cash
+128,B1124,2025-01-24,"Thomas Sridhar","Gold Necklace",Gold,17.29,6967.00,3217.00,3710.29,127386.72,"Bank Transfer"
+129,B1125,2026-04-25,"Kavya Ganesh","Gold Necklace",Gold,13.99,6980.00,3815.00,3043.96,104509.16,Card
+130,B1126,2024-11-09,"Vrishti Choudhary","Silver Chain",Silver,28.23,91.00,239.00,84.24,2892.17,Card
+131,B1127,2024-10-21,"Sachi Raj","Silver Coin",Silver,29.15,86.00,893.00,102.00,3501.90,Cash
+132,B1128,2025-12-31,"Harini Goyal","Gold Necklace",Gold,14.42,6568.00,1357.00,2882.03,98949.59,Card
+133,B1129,2025-01-29,"Yagnesh Bedi","Silver Chain",Silver,22.45,110.00,286.00,82.66,2838.16,UPI
+134,B1130,2026-02-04,"Amaira Pandit","Silver Chain",Silver,28.61,88.00,438.00,88.67,3044.35,Cash
+135,B1131,2025-04-19,"Yash Sha","Gold Earrings",Gold,18.69,6735.00,1457.00,3820.02,131154.17,"Bank Transfer"
+136,B1132,2025-06-29,"Jairaj Kota","Gold Ring",Gold,17.15,6803.00,3411.00,3602.47,123684.92,UPI
+137,B1133,2024-07-26,"Rajeshri Setty","Silver Payal",Silver,28.73,107.00,660.00,112.02,3846.13,UPI
+138,B1134,2024-08-31,"Laksh Bhavsar","Gold Chain",Gold,4.37,6152.00,4528.00,942.37,32354.61,"Bank Transfer"
+139,B1135,2025-09-21,"Garima Chauhan","Gold Necklace",Gold,14.78,5902.00,1156.00,2651.63,91039.19,Card
+140,B1136,2026-02-14,"Jatin Jha","Gold Ring",Gold,10.48,5962.00,4182.00,1999.91,68663.67,UPI
+141,B1137,2025-12-30,"Yashvi Narula","Silver Payal",Silver,18.54,100.00,226.00,62.40,2142.40,Cash
+142,B1138,2025-05-29,"Chaaya Patel","Gold Ring",Gold,7.26,6182.00,3544.00,1452.76,49878.08,"Bank Transfer"
+143,B1139,2026-05-20,"Ethan Kaur","Silver Payal",Silver,89.80,103.00,550.00,293.98,10093.38,"Bank Transfer"
+144,B1140,2025-01-26,"Pushti Munshi","Gold Chain",Gold,13.53,7025.00,2779.00,2934.82,100762.07,"Bank Transfer"
+145,B1141,2026-05-29,"Tamanna Parmer","Gold Necklace",Gold,3.56,6537.00,2333.00,768.14,26372.86,UPI
+146,B1142,2025-06-17,"Dalbir Nazareth","Silver Coin",Silver,36.05,107.00,345.00,126.07,4328.42,Card
+147,B1143,2025-03-10,"Girindra Dutt","Silver Payal",Silver,79.71,75.00,281.00,187.78,6447.03,UPI
+148,B1144,2026-04-09,"Divya Ramachandran","Gold Necklace",Gold,11.11,7174.00,4436.00,2524.17,86663.31,UPI
+149,B1145,2024-08-16,"Darpan Narula","Silver Ring",Silver,95.07,94.00,436.00,281.18,9653.76,UPI
+150,B1146,2026-06-18,"Adya Bal","Gold Chain",Gold,10.17,6478.00,2635.00,2055.49,70571.75,Card
+151,B1147,2024-07-15,"Naksh Dada","Silver Coin",Silver,39.38,92.00,605.00,126.84,4354.80,UPI
+152,B1148,2025-12-06,"Frederick Bahl","Silver Coin",Silver,17.96,85.00,436.00,58.88,2021.48,Card
+153,B1149,2025-11-22,"Shaurya Wason","Gold Earrings",Gold,17.64,6315.00,2894.00,3428.72,117719.32,Card
+154,B1150,2025-06-14,"Ishwar Parsa","Gold Chain",Gold,10.90,7089.00,4170.00,2443.20,83883.30,"Bank Transfer"
+155,B1151,2025-05-11,"Faqid Bajaj","Gold Ring",Gold,15.10,6531.00,4060.00,3080.34,105758.44,Cash
+156,B1152,2025-05-02,"Ekaja Peri","Gold Chain",Gold,3.96,6061.00,1780.00,773.45,26555.01,"Bank Transfer"
+157,B1153,2024-12-12,"Amara Sane","Silver Coin",Silver,27.89,73.00,623.00,79.77,2738.74,Cash
+158,B1154,2025-09-10,"Omaja Krish","Silver Chain",Silver,19.66,103.00,534.00,76.77,2635.75,Card
+159,B1155,2025-03-31,"Falguni Khanna","Silver Chain",Silver,55.04,73.00,900.00,147.54,5065.46,UPI
+160,B1156,2024-07-23,"Rishi Dalal","Silver Coin",Silver,97.91,73.00,348.00,224.86,7720.29,"Bank Transfer"
+161,B1157,2026-05-07,"Manbir Nazareth","Gold Ring",Gold,10.60,5928.00,2857.00,1970.81,67664.61,Cash
+162,B1158,2026-03-28,"Chaitaly Wable","Silver Payal",Silver,54.31,99.00,859.00,187.07,6422.76,"Bank Transfer"
+163,B1159,2026-05-08,"Aishani Sachdev","Gold Earrings",Gold,4.49,6572.00,2914.00,972.67,33394.95,UPI
+164,B1160,2025-08-11,"Shivani Natt","Silver Coin",Silver,43.87,73.00,227.00,102.89,3532.40,UPI
+165,B1161,2025-04-22,"Anika Dâ€™Alia","Gold Necklace",Gold,18.81,6741.00,3872.00,3920.11,134590.32,Card
+166,B1162,2025-04-17,"Lakshit Dugar","Gold Earrings",Gold,12.35,6097.00,3877.00,2375.25,81550.20,"Bank Transfer"
+167,B1163,2025-09-05,"Ekapad Varty","Silver Chain",Silver,44.69,81.00,663.00,128.49,4411.38,Cash
+168,B1164,2024-11-07,"Aachal Kata","Silver Chain",Silver,15.35,105.00,822.00,73.01,2506.76,UPI
+169,B1165,2025-12-30,"Ekani Thaker","Gold Earrings",Gold,7.05,7199.00,2288.00,1591.23,54632.18,Cash
+170,B1166,2026-03-22,"Widisha Modi","Gold Chain",Gold,3.84,6031.00,3069.00,786.84,27014.88,Card
+171,B1167,2025-01-08,"Vasana Parmer","Gold Earrings",Gold,11.35,6158.00,4246.00,2224.18,76363.48,Cash
+172,B1168,2026-02-03,"Riya Krish","Gold Earrings",Gold,18.41,5951.00,2522.00,3362.40,115442.31,Cash
+173,B1169,2026-02-21,"Falak Shere","Gold Necklace",Gold,2.12,6127.00,2956.00,478.36,16423.60,Cash
+174,B1170,2026-06-29,"Zayan Parekh","Gold Necklace",Gold,12.62,5808.00,2298.00,2267.85,77862.81,Card
+175,B1171,2026-01-25,"Chaitaly Nagi","Gold Chain",Gold,16.89,5898.00,3393.00,3090.31,106100.53,Cash
+176,B1172,2025-11-16,"Laksh Venkataraman","Silver Coin",Silver,52.30,84.00,509.00,147.07,5049.27,"Bank Transfer"
+177,B1173,2026-01-15,"Tamanna Taneja","Silver Payal",Silver,23.51,112.00,111.00,82.32,2826.44,UPI
+178,B1174,2024-11-02,"Warda Gera","Silver Ring",Silver,11.98,105.00,271.00,45.87,1574.77,UPI
+179,B1175,2024-12-07,"Sanaya Banik","Silver Coin",Silver,96.05,89.00,246.00,263.83,9058.28,Cash
+180,B1176,2024-08-06,"Rachana Rajagopal","Silver Chain",Silver,85.30,113.00,604.00,307.29,10550.19,Cash
+181,B1177,2026-03-19,"Tanmayi Murty","Gold Ring",Gold,5.72,7137.00,4923.00,1372.40,47119.04,UPI
+182,B1178,2026-03-20,"Pranav Butala","Gold Ring",Gold,3.78,6474.00,3877.00,850.46,29199.18,"Bank Transfer"
+183,B1179,2026-02-06,"Lila Bhavsar","Silver Ring",Silver,21.36,96.00,373.00,72.71,2496.27,Cash
+184,B1180,2025-07-22,"Teerth Ghose","Silver Chain",Silver,61.17,91.00,609.00,185.26,6360.73,UPI
+185,B1181,2026-01-15,"Lakshit Upadhyay","Gold Necklace",Gold,11.96,5987.00,4548.00,2284.58,78437.10,Card
+186,B1182,2026-02-10,"Azaan Lad","Silver Ring",Silver,73.89,87.00,441.00,206.08,7075.51,"Bank Transfer"
+187,B1183,2026-06-07,"Nisha Dar","Gold Ring",Gold,15.42,6234.00,4793.00,3027.64,103948.92,"Bank Transfer"
+188,B1184,2025-08-23,"Ekaja Behl","Gold Ring",Gold,8.18,6942.00,3924.00,1821.29,62530.85,Cash
+189,B1185,2025-06-26,"Rachita Parmar","Gold Ring",Gold,4.56,5920.00,2061.00,871.69,29927.89,UPI
+190,B1186,2026-01-17,"Kashish Batra","Silver Ring",Silver,13.64,74.00,499.00,45.25,1553.61,Card
+191,B1187,2025-10-20,"Onveer Balay","Silver Payal",Silver,29.94,82.00,328.00,83.49,2866.57,Card
+192,B1188,2025-05-26,"Yamini Warrior","Silver Payal",Silver,51.56,86.00,169.00,138.09,4741.25,Card
+193,B1189,2025-07-12,"Chanakya Setty","Gold Necklace",Gold,4.60,6526.00,4988.00,1050.23,36057.83,Cash
+194,B1190,2026-07-02,"Oeshi Kar","Gold Ring",Gold,10.68,6275.00,2453.00,2084.10,71554.10,Card
+195,B1191,2025-01-03,"Nidra Manda","Gold Chain",Gold,4.57,6823.00,4355.00,1066.08,36602.19,Cash
+196,B1192,2025-04-03,"Ekavir Patil","Gold Necklace",Gold,11.69,5946.00,1948.00,2143.70,73600.44,Cash
+197,B1193,2025-08-07,"Ekani Bera","Gold Chain",Gold,19.54,5847.00,3609.00,3535.78,121395.16,Cash
+198,B1194,2026-03-05,"Nathaniel Nanda","Silver Payal",Silver,35.52,95.00,847.00,126.64,4348.04,Cash
+199,B1195,2025-02-06,"Aarav Tak","Silver Chain",Silver,99.65,101.00,102.00,305.00,10471.65,UPI
+200,B1196,2025-07-15,"Urvi Guha","Gold Earrings",Gold,11.31,5978.00,3881.00,2144.77,73636.95,Card
+201,B1197,2026-02-27,"Wridesh Dalal","Gold Earrings",Gold,3.23,6111.00,1243.00,629.45,21610.98,Cash
+202,B1198,2026-04-13,"Keya Subramanian","Silver Ring",Silver,82.11,96.00,899.00,263.45,9045.01,UPI
+203,B1199,2026-01-24,"Gaurang Gill","Silver Chain",Silver,44.81,102.00,669.00,157.19,5396.81,UPI
+204,B1200,2024-12-27,"Pooja Savant","Silver Coin",Silver,94.31,113.00,924.00,347.43,11928.46,"Bank Transfer"
+205,B1201,2025-05-28,"Hemangini Salvi","Gold Ring",Gold,18.91,6738.00,2350.00,3892.97,133658.55,Card
+206,B1202,2025-10-07,"Om Mittal","Gold Necklace",Gold,8.88,6436.00,4920.00,1862.15,63933.83,UPI
+207,B1203,2025-07-12,"Gunbir Dasgupta","Gold Necklace",Gold,6.73,5816.00,4337.00,1304.36,44783.04,Cash
+208,B1204,2025-04-03,"Benjamin Malhotra","Gold Ring",Gold,16.11,6036.00,1633.00,2966.19,101839.15,"Bank Transfer"
+209,B1205,2026-03-14,"Vivaan Subramanian","Gold Necklace",Gold,2.53,7117.00,3971.00,659.31,22636.32,Card
+210,B1206,2026-04-06,"Jeevika Jani","Silver Payal",Silver,44.16,114.00,447.00,164.44,5645.68,Card
+211,B1207,2025-01-29,"Alka Kunda","Gold Chain",Gold,17.34,6933.00,1831.00,3661.48,125710.70,UPI
+212,B1208,2025-06-09,"Lakshmi Pillay","Gold Necklace",Gold,12.22,6367.00,1894.00,2390.96,82089.70,Card
+213,B1209,2026-04-05,"Saumya Handa","Gold Necklace",Gold,19.17,6236.00,2964.00,3675.24,126183.36,Cash
+214,B1210,2025-05-01,"Chanchal Bobal","Gold Necklace",Gold,17.41,7185.00,3317.00,3852.24,132260.09,Cash
+215,B1211,2026-03-22,"Tara Ratti","Silver Ring",Silver,11.74,94.00,276.00,41.39,1420.95,"Bank Transfer"
+216,B1212,2026-07-03,"Amara Shanker","Gold Chain",Gold,19.24,6434.00,1393.00,3755.49,128938.65,"Bank Transfer"
+217,B1213,2026-05-05,"Fiyaz Tak","Silver Chain",Silver,81.18,82.00,323.00,209.39,7189.15,"Bank Transfer"
+218,B1214,2024-12-07,"Sai Nagi","Gold Ring",Gold,16.95,6614.00,2020.00,3423.82,117551.12,"Bank Transfer"
+219,B1215,2025-12-10,"Anjali Ramanathan","Gold Chain",Gold,17.33,6498.00,2737.00,3460.42,118807.76,"Bank Transfer"
+220,B1216,2024-12-05,"Chandani Banik","Silver Chain",Silver,37.32,93.00,615.00,122.57,4208.33,"Bank Transfer"
+221,B1217,2025-03-16,"Radhika Mukherjee","Silver Ring",Silver,56.01,95.00,724.00,181.35,6226.30,Cash
+222,B1218,2024-11-25,"Abhiram Walia","Silver Payal",Silver,49.00,98.00,191.00,149.79,5142.79,Cash
+223,B1219,2024-11-01,"Krishna Sodhi","Gold Earrings",Gold,15.80,6711.00,1628.00,3229.85,110891.65,Card
+224,B1220,2026-01-26,"Darpan Tak","Gold Chain",Gold,7.95,7167.00,2812.00,1793.69,61583.34,Card
+225,B1221,2025-05-12,"Mahika Bhatti","Silver Ring",Silver,78.47,91.00,586.00,231.80,7958.57,Cash
+226,B1222,2026-04-04,"Varsha Pingle","Gold Chain",Gold,14.18,6224.00,2083.00,2710.18,93049.50,Cash
+227,B1223,2025-04-14,"Harish Nadig","Gold Ring",Gold,9.08,5831.00,2044.00,1649.68,56639.16,UPI
+228,B1224,2024-08-31,"Raksha Dutta","Silver Coin",Silver,59.14,89.00,276.00,166.18,5705.64,Card
+229,B1225,2026-07-06,"Xalak Bedi","Gold Ring",Gold,3.37,6956.00,2532.00,779.21,26752.93,Card
+230,B1226,2024-10-08,"Wazir Kannan","Silver Ring",Silver,70.38,105.00,182.00,227.16,7799.06,UPI
+231,B1227,2025-10-24,"Omkaar Karan","Gold Necklace",Gold,16.19,7116.00,2049.00,3517.71,120774.75,Card
+232,B1228,2025-05-19,"Suhani Shah","Silver Coin",Silver,13.37,98.00,598.00,57.25,1965.51,UPI
+233,B1229,2025-12-09,"Udarsh Srinivas","Silver Coin",Silver,80.10,99.00,422.00,250.56,8602.46,Card
+234,B1230,2025-10-12,"Unnati Pau","Gold Necklace",Gold,4.23,6626.00,1747.00,893.25,30668.23,UPI
+235,B1231,2025-12-14,"Nilima Purohit","Silver Coin",Silver,87.87,86.00,266.00,234.68,8057.50,UPI
+236,B1232,2024-12-01,"Libni Nair","Silver Ring",Silver,92.33,72.00,100.00,202.43,6950.19,"Bank Transfer"
+237,B1233,2025-09-05,"Peter Joshi","Silver Chain",Silver,19.66,74.00,144.00,47.97,1646.81,"Bank Transfer"
+238,B1234,2025-02-24,"Amara Malhotra","Gold Chain",Gold,7.30,6189.00,1026.00,1386.17,47591.87,UPI
+239,B1235,2026-01-10,"Neelima Upadhyay","Gold Necklace",Gold,19.22,6333.00,3823.00,3766.30,129309.56,Card
+240,B1236,2024-10-12,"Gopal Purohit","Gold Necklace",Gold,14.14,6409.00,4282.00,2847.16,97752.42,UPI
+241,B1237,2026-02-19,"Vincent Singhal","Gold Necklace",Gold,4.41,6827.00,4690.00,1043.91,35840.98,Card
+242,B1238,2025-09-29,"Kalpit Ghosh","Gold Chain",Gold,19.24,7077.00,3354.00,4185.46,143700.94,Cash
+243,B1239,2025-04-01,"Brijesh Mani","Gold Necklace",Gold,5.71,6034.00,3709.00,1144.89,39308.03,"Bank Transfer"
+244,B1240,2025-07-22,"Netra Rastogi","Gold Chain",Gold,6.27,6561.00,3239.00,1331.29,45707.76,Card
+245,B1241,2025-03-22,"Advaith Manne","Gold Ring",Gold,4.67,6405.00,4015.00,1017.79,34944.14,"Bank Transfer"
+246,B1242,2025-05-10,"Dalaja Rao","Gold Chain",Gold,4.46,6676.00,1261.00,931.08,31967.04,Card
+247,B1243,2025-01-07,"Nitesh Zachariah","Gold Earrings",Gold,10.28,6390.00,3718.00,2082.22,71489.42,Cash
+248,B1244,2024-11-09,"Peter Bandi","Gold Ring",Gold,14.23,6526.00,1522.00,2831.61,97218.59,Cash
+249,B1245,2026-04-23,"Kritika Pau","Gold Ring",Gold,5.07,5825.00,2982.00,975.44,33490.19,Card
+250,B1246,2026-01-07,"Amol Ratta","Silver Coin",Silver,90.03,102.00,666.00,295.47,10144.53,Cash
+251,B1247,2024-08-21,"Parth Chaudhary","Gold Ring",Gold,13.55,6350.00,4009.00,2701.55,92753.05,Cash
+252,B1248,2026-07-06,"Devika Dua","Gold Earrings",Gold,9.29,5921.00,4036.00,1771.26,60813.35,UPI
+253,B1249,2024-07-18,"Gaurang Pathak","Silver Coin",Silver,56.64,85.00,608.00,162.67,5585.07,"Bank Transfer"
+254,B1250,2024-09-13,"Saksham Ranganathan","Silver Chain",Silver,88.97,96.00,881.00,282.66,9704.78,Cash
+255,B1251,2025-02-15,"Tamanna Gala","Silver Ring",Silver,81.81,82.00,254.00,208.87,7171.29,Cash
+256,B1252,2025-02-01,"Arin Mukherjee","Gold Ring",Gold,16.58,6644.00,2414.00,3377.15,115948.67,Card
+257,B1253,2024-08-15,"Urvashi Chopra","Silver Payal",Silver,53.03,106.00,766.00,191.62,6578.80,Cash
+258,B1254,2026-03-08,"Ekbal Balay","Gold Earrings",Gold,15.85,6719.00,1149.00,3229.35,110874.50,Cash
+259,B1255,2026-04-26,"Ansh Upadhyay","Gold Necklace",Gold,7.53,7066.00,1356.00,1636.89,56199.87,Cash
+260,B1256,2026-03-21,"Kabir Ganesan","Gold Earrings",Gold,15.63,6172.00,4456.00,3027.73,103952.09,Card
+261,B1257,2025-06-14,"Radhika Grewal","Silver Ring",Silver,91.51,88.00,518.00,257.13,8828.01,Card
+262,B1258,2024-07-17,"Isha Bajwa","Silver Coin",Silver,75.76,118.00,934.00,296.21,10169.89,Card
+263,B1259,2025-04-03,"Faraj Mand","Silver Ring",Silver,78.29,105.00,660.00,266.41,9146.86,Card
+264,B1260,2025-11-26,"Aarini Karnik","Silver Ring",Silver,67.69,99.00,391.00,212.77,7305.08,"Bank Transfer"
+265,B1261,2025-08-29,"Benjamin Bhakta","Silver Payal",Silver,99.54,96.00,491.00,301.41,10348.25,"Bank Transfer"
+266,B1262,2026-02-19,"Laksh Kaul","Gold Earrings",Gold,18.82,6963.00,1935.00,3989.36,136968.02,"Bank Transfer"
+267,B1263,2026-04-09,"Meera Seshadri","Gold Earrings",Gold,6.16,6497.00,4807.00,1344.86,46173.38,"Bank Transfer"
+268,B1264,2026-04-15,"Amruta Acharya","Silver Ring",Silver,99.33,79.00,869.00,261.48,8977.55,UPI
+269,B1265,2025-05-16,"Zilmil Panchal","Gold Earrings",Gold,17.55,5863.00,3043.00,3178.16,109116.81,UPI
+270,B1266,2024-07-22,"Tanveer Sundaram","Silver Payal",Silver,43.18,91.00,110.00,121.18,4160.56,"Bank Transfer"
+271,B1267,2025-09-01,"Priya Sanghvi","Gold Ring",Gold,3.28,6408.00,1068.00,662.59,22748.83,"Bank Transfer"
+272,B1268,2025-11-30,"Ladli Narasimhan","Gold Chain",Gold,4.08,7007.00,3047.00,949.07,32584.63,Cash
+273,B1269,2024-10-22,"Aarini Khosla","Gold Necklace",Gold,12.64,6271.00,2615.00,2456.41,84336.85,Cash
+274,B1270,2024-11-09,"Janaki Naidu","Gold Chain",Gold,13.40,6018.00,1314.00,2458.66,84413.86,Card
+275,B1271,2025-03-30,"Girik Gill","Gold Ring",Gold,18.78,5816.00,2250.00,3344.23,114818.71,"Bank Transfer"
+276,B1272,2026-06-15,"Gaurika Kunda","Gold Chain",Gold,6.02,6674.00,4393.00,1337.11,45907.59,UPI
+277,B1273,2025-07-31,"Chatresh Sandhu","Gold Earrings",Gold,9.76,6954.00,4473.00,2170.32,74514.36,UPI
+278,B1274,2025-09-17,"Wyatt Nagy","Silver Chain",Silver,86.19,98.00,792.00,277.16,9515.78,Card
+279,B1275,2026-05-26,"Anusha Kuruvilla","Silver Chain",Silver,66.34,102.00,105.00,206.15,7077.83,Cash
+280,B1276,2025-01-24,"Aradhana Badal","Gold Earrings",Gold,14.75,6116.00,1129.00,2740.20,94080.20,Cash
+281,B1277,2026-04-26,"Dev Deshmukh","Silver Coin",Silver,12.09,80.00,339.00,39.19,1345.39,"Bank Transfer"
+282,B1278,2025-09-11,"Bhavika Bahl","Gold Earrings",Gold,13.08,6121.00,1139.00,2436.05,83637.73,UPI
+283,B1279,2024-10-08,"Lavanya Nori","Gold Ring",Gold,13.47,7043.00,2537.00,2922.19,100328.40,UPI
+284,B1280,2026-06-29,"Sai Suri","Gold Chain",Gold,7.35,6671.00,4957.00,1619.67,55608.52,Card
+285,B1281,2026-03-20,"Max Raju","Silver Coin",Silver,14.58,105.00,881.00,72.36,2484.26,UPI
+286,B1282,2024-10-31,"Megha Bhavsar","Gold Ring",Gold,4.21,6099.00,3936.00,888.38,30501.17,"Bank Transfer"
+287,B1283,2025-04-14,"Madhav Talwar","Gold Ring",Gold,12.01,5916.00,2174.00,2196.75,75421.91,Card
+288,B1284,2025-12-06,"Alka Bath","Silver Payal",Silver,17.20,102.00,711.00,73.96,2539.36,UPI
+289,B1285,2024-09-12,"Oscar Batra","Gold Ring",Gold,6.40,6137.00,1073.00,1210.49,41560.29,"Bank Transfer"
+290,B1286,2026-02-12,"Warinder Wali","Gold Necklace",Gold,14.02,6070.00,2524.00,2628.76,90254.16,"Bank Transfer"
+291,B1287,2025-11-05,"Lila Shan","Gold Earrings",Gold,4.65,6969.00,4612.00,1110.54,38128.39,Card
+292,B1288,2026-04-24,"Madhav Gokhale","Gold Ring",Gold,18.54,6034.00,2216.00,3422.59,117508.95,"Bank Transfer"
+293,B1289,2026-03-25,"Gaurang Tiwari","Gold Chain",Gold,5.77,5961.00,1831.00,1086.78,37312.75,Cash
+294,B1290,2026-01-06,"Upasna Ramachandran","Silver Coin",Silver,61.49,111.00,473.00,218.95,7517.34,UPI
+295,B1291,2026-02-09,"Rayaan Banerjee","Gold Chain",Gold,6.39,6522.00,3131.00,1344.20,46150.78,Cash
+296,B1292,2025-02-25,"Hredhaan Sood","Silver Chain",Silver,84.92,116.00,206.00,301.70,10358.42,"Bank Transfer"
+297,B1293,2025-08-01,"Gaurika Dash","Silver Payal",Silver,19.15,71.00,248.00,48.23,1655.88,Card
+298,B1294,2026-04-24,"Indrajit Radhakrishnan","Gold Ring",Gold,10.22,6100.00,1140.00,1904.46,65386.46,"Bank Transfer"
+299,B1295,2025-07-06,"Ekbal Khurana","Silver Chain",Silver,99.35,78.00,477.00,246.79,8473.09,Card
+300,B1296,2025-06-07,"Yuvraj Agate","Gold Chain",Gold,10.50,6104.00,4793.00,2066.55,70951.55,"Bank Transfer"
+301,B1297,2025-08-13,"Xavier Chander","Gold Earrings",Gold,2.81,6790.00,3310.00,671.70,23061.60,UPI
+302,B1298,2024-12-28,"Upadhriti Sampath","Gold Necklace",Gold,10.55,6535.00,4505.00,2203.48,75652.73,UPI
+303,B1299,2025-09-14,"Priya Mander","Gold Necklace",Gold,5.33,7041.00,1941.00,1184.09,40653.62,"Bank Transfer"
+304,B1300,2025-07-17,"Charita Bhagat","Gold Earrings",Gold,14.24,7093.00,3938.00,3148.27,108090.59,Card
+305,B1301,2026-02-28,"Tanish Dube","Silver Coin",Silver,90.38,111.00,851.00,326.50,11209.68,"Bank Transfer"
+306,B1302,2025-05-01,"Vinaya Basu","Silver Coin",Silver,58.22,105.00,708.00,204.63,7025.73,"Bank Transfer"
+307,B1303,2024-12-18,"Omaja Bahri","Silver Chain",Silver,31.37,119.00,669.00,132.06,4534.09,UPI
+308,B1304,2025-07-22,"Akshay Choudhury","Silver Ring",Silver,52.70,95.00,330.00,160.09,5496.59,Cash
+309,B1305,2024-09-07,"Ryan Banik","Silver Payal",Silver,33.10,71.00,839.00,95.67,3284.77,Card
+310,B1306,2026-06-21,"Turvi Bobal","Gold Earrings",Gold,2.70,5812.00,2326.00,540.55,18558.95,"Bank Transfer"
+311,B1307,2026-06-08,"Gayathri Krishna","Gold Earrings",Gold,14.91,6678.00,4058.00,3108.81,106735.79,UPI
+312,B1308,2024-10-05,"Bhavya Bajwa","Silver Payal",Silver,85.99,106.00,832.00,298.41,10245.35,Cash
+313,B1309,2026-06-27,"Lohit Natarajan","Gold Ring",Gold,8.20,6445.00,2400.00,1657.47,56906.47,"Bank Transfer"
+314,B1310,2025-09-04,"Lakshmi Narang","Gold Ring",Gold,9.45,6336.00,2424.00,1868.98,64168.18,Card
+315,B1311,2025-05-16,"Vasatika Atwal","Gold Ring",Gold,7.58,6115.00,3268.00,1488.59,51108.29,"Bank Transfer"
+316,B1312,2024-12-07,"Nachiket Samra","Gold Chain",Gold,6.41,6332.00,4736.00,1359.72,46683.84,Card
+317,B1313,2026-01-05,"Leena Nayak","Silver Payal",Silver,47.53,75.00,352.00,117.50,4034.25,UPI
+318,B1314,2025-08-18,"Dhriti Barad","Silver Coin",Silver,67.74,86.00,472.00,188.93,6486.57,"Bank Transfer"
+319,B1315,2026-03-04,"Oni Dutt","Silver Coin",Silver,43.72,87.00,793.00,137.90,4734.54,"Bank Transfer"
+320,B1316,2025-12-08,"Karan Gala","Gold Earrings",Gold,14.35,6447.00,3613.00,2883.82,99011.27,Cash
+321,B1317,2025-09-11,"Omaja Karpe","Silver Chain",Silver,47.54,78.00,488.00,125.88,4322.00,Cash
+322,B1318,2025-11-21,"Ekiya Sabharwal","Gold Necklace",Gold,16.34,5959.00,1570.00,2968.20,101908.26,Card
+323,B1319,2025-10-17,"Ekapad Nagy","Silver Payal",Silver,76.73,87.00,476.00,214.55,7366.06,"Bank Transfer"
+324,B1320,2025-09-24,"Yashoda Acharya","Gold Ring",Gold,14.14,6990.00,1499.00,3010.13,103347.73,Card
+325,B1321,2026-07-13,"Udyati Gour","Gold Chain",Gold,11.51,6029.00,3967.00,2200.82,75561.61,Cash
+326,B1322,2025-03-13,"Hemal Vyas","Gold Earrings",Gold,4.64,6826.00,4607.00,1088.39,37368.03,"Bank Transfer"
+327,B1323,2026-05-10,"Dakshesh Mital","Silver Coin",Silver,11.07,90.00,232.00,36.85,1265.15,"Bank Transfer"
+328,B1324,2024-08-04,"Niharika Varughese","Gold Ring",Gold,19.78,7012.00,2219.00,4227.49,145143.85,UPI
+329,B1325,2024-08-19,"Eshana Pillai","Gold Earrings",Gold,9.50,6437.00,3463.00,1938.43,66552.93,Cash
+330,B1326,2025-12-17,"Eta Dixit","Gold Chain",Gold,3.92,5968.00,2999.00,791.81,27185.37,Cash
+331,B1327,2025-11-08,"Anika Shroff","Gold Earrings",Gold,2.16,7021.00,3185.00,550.51,18900.87,Card
+332,B1328,2025-07-05,"Raghav Palla","Gold Chain",Gold,5.51,6382.00,4244.00,1182.26,40591.08,Cash
+333,B1329,2025-04-30,"Neha Som","Gold Ring",Gold,5.19,6593.00,4123.00,1150.22,39490.89,Card
+334,B1330,2026-05-01,"Utkarsh Sridhar","Gold Earrings",Gold,17.63,7164.00,2218.00,3855.58,132374.90,Card
+335,B1331,2025-07-17,"Maanav Dash","Gold Necklace",Gold,19.92,6031.00,3754.00,3716.75,127608.27,"Bank Transfer"
+336,B1332,2025-12-14,"Andrew Sandhu","Gold Chain",Gold,11.98,6577.00,1383.00,2405.26,82580.72,"Bank Transfer"
+337,B1333,2026-03-01,"Samar Patel","Silver Coin",Silver,39.12,111.00,358.00,141.01,4841.33,UPI
+338,B1334,2024-08-20,"Jason Sangha","Gold Chain",Gold,13.92,6335.00,4214.00,2771.92,95169.12,Cash
+339,B1335,2025-08-06,"Gunbir Manda","Gold Chain",Gold,4.40,6668.00,4256.00,1007.86,34603.06,UPI
+340,B1336,2024-08-21,"Yachana Banerjee","Silver Payal",Silver,22.02,95.00,190.00,68.46,2350.36,UPI
+341,B1337,2025-07-04,"Omisha Rastogi","Gold Earrings",Gold,7.83,6908.00,3632.00,1731.65,59453.29,"Bank Transfer"
+342,B1338,2026-01-07,"Nidhi Prasad","Silver Ring",Silver,89.37,110.00,381.00,306.35,10518.05,Card
+343,B1339,2025-12-16,"Victor Sethi","Silver Ring",Silver,43.77,110.00,797.00,168.35,5780.05,"Bank Transfer"
+344,B1340,2026-06-30,"Noah Anne","Gold Chain",Gold,15.86,6540.00,2060.00,3173.53,108957.93,Card
+345,B1341,2025-02-14,"Vedant Behl","Silver Chain",Silver,49.44,86.00,683.00,148.05,5082.89,Card
+346,B1342,2026-04-19,"Vrinda Borra","Silver Coin",Silver,15.10,89.00,182.00,45.78,1571.68,Card
+347,B1343,2025-12-07,"Chatresh Sem","Silver Coin",Silver,44.00,117.00,278.00,162.78,5588.78,UPI
+348,B1344,2024-09-01,"Adya Chaudhuri","Gold Ring",Gold,16.16,6055.00,4456.00,3069.14,105373.94,Card
+349,B1345,2025-04-18,"Samaksh Pau","Gold Ring",Gold,18.95,5982.00,1839.00,3455.94,118653.84,Card
+350,B1346,2026-02-16,"Krishna Chandra","Gold Necklace",Gold,18.76,6954.00,4949.00,4062.18,139468.22,Cash
+351,B1347,2025-12-03,"Fariq Swamy","Silver Ring",Silver,10.12,117.00,990.00,65.22,2239.26,Card
+352,B1348,2026-05-06,"Dalaja Nanda","Gold Ring",Gold,5.47,7179.00,1549.00,1224.54,42042.67,"Bank Transfer"
+353,B1349,2025-09-11,"Jagdish Raju","Gold Chain",Gold,17.94,5995.00,2504.00,3301.63,113355.93,UPI
+354,B1350,2025-07-06,"Panini Salvi","Silver Chain",Silver,71.63,104.00,108.00,226.73,7784.25,"Bank Transfer"
+355,B1351,2024-09-08,"Tamanna Minhas","Silver Ring",Silver,60.95,89.00,939.00,190.91,6554.46,Cash
+356,B1352,2026-04-10,"Yachana More","Gold Earrings",Gold,12.09,6819.00,3908.00,2590.49,88940.20,Card
+357,B1353,2025-11-30,"Daksha Karpe","Silver Ring",Silver,69.70,111.00,392.00,243.86,8372.56,Card
+358,B1354,2024-12-02,"Geetika Choudhary","Silver Chain",Silver,90.03,105.00,779.00,306.96,10539.11,Cash
+359,B1355,2025-05-07,"Shaurya Murthy","Gold Necklace",Gold,19.62,6111.00,2993.00,3686.72,126577.54,Card
+360,B1356,2025-07-09,"Nilima Anne","Gold Ring",Gold,6.42,6755.00,3132.00,1394.97,47894.07,Cash
+361,B1357,2026-05-22,"Mason Mann","Silver Chain",Silver,54.73,110.00,711.00,201.94,6933.24,Cash
+362,B1358,2025-06-19,"Sudiksha Mohanty","Silver Chain",Silver,36.14,86.00,158.00,97.98,3364.02,UPI
+363,B1359,2026-07-11,"Watika Mahajan","Silver Ring",Silver,35.72,75.00,470.00,94.47,3243.47,UPI
+364,B1360,2025-02-07,"Chameli Oak","Gold Ring",Gold,12.61,5963.00,4452.00,2389.36,82034.79,Card
+365,B1361,2024-07-31,"Chaitanya Balay","Silver Ring",Silver,91.78,97.00,570.00,284.18,9756.84,"Bank Transfer"
+366,B1362,2024-07-23,"Chatura Kala","Silver Chain",Silver,82.80,108.00,835.00,293.32,10070.72,"Bank Transfer"
+367,B1363,2024-11-07,"Nidra Randhawa","Gold Ring",Gold,14.54,7061.00,1276.00,3118.29,107061.23,"Bank Transfer"
+368,B1364,2024-12-25,"Watika Dâ€™Alia","Gold Ring",Gold,15.80,7189.00,4338.00,3537.73,121461.93,Card
+369,B1365,2025-09-28,"Laksh Krishnamurthy","Silver Ring",Silver,21.19,113.00,419.00,84.40,2897.87,"Bank Transfer"
+370,B1366,2026-01-05,"Gaurika Master","Silver Payal",Silver,48.15,99.00,224.00,149.73,5140.58,UPI
+371,B1367,2025-06-02,"Qadim Kulkarni","Silver Payal",Silver,25.58,70.00,209.00,59.99,2059.59,UPI
+372,B1368,2024-09-14,"Chanchal Mukherjee","Silver Chain",Silver,76.72,87.00,538.00,216.38,7429.02,UPI
+373,B1369,2026-02-17,"Sudiksha Dara","Gold Necklace",Gold,18.44,6703.00,3903.00,3825.19,131331.51,Cash
+374,B1370,2025-10-01,"Joshua Bala","Gold Necklace",Gold,6.03,6259.00,4043.00,1253.54,43038.31,Card
+375,B1371,2026-02-16,"Zansi Master","Silver Payal",Silver,21.51,106.00,969.00,97.47,3346.53,"Bank Transfer"
+376,B1372,2025-03-03,"Keya Rout","Gold Earrings",Gold,16.64,6155.00,4667.00,3212.59,110298.79,UPI
+377,B1373,2026-04-11,"Tejas Nayak","Silver Coin",Silver,40.49,103.00,333.00,135.10,4638.57,UPI
+378,B1374,2025-03-19,"Harshil Gara","Gold Ring",Gold,4.12,6258.00,3471.00,877.62,30131.58,"Bank Transfer"
+379,B1375,2025-04-18,"Jeevika Kanda","Gold Chain",Gold,5.51,5819.00,4485.00,1096.43,37644.12,UPI
+380,B1376,2026-06-05,"Dalbir Lall","Gold Ring",Gold,19.51,5815.00,1243.00,3440.81,118134.46,Card
+381,B1377,2025-02-22,"Siya Dhingra","Silver Coin",Silver,25.54,70.00,725.00,75.38,2588.18,"Bank Transfer"
+382,B1378,2025-06-23,"Harish Choudhury","Gold Chain",Gold,14.74,6490.00,4064.00,2991.80,102718.40,Card
+383,B1379,2024-12-08,"Dhriti Chauhan","Gold Ring",Gold,7.17,6251.00,1354.00,1385.21,47558.88,"Bank Transfer"
+384,B1380,2024-10-20,"Ridhi More","Silver Ring",Silver,25.34,97.00,361.00,84.57,2903.55,Card
+385,B1381,2026-02-19,"Gavin Sheth","Silver Coin",Silver,15.62,72.00,656.00,53.42,1834.06,UPI
+386,B1382,2026-01-27,"Ekantika Mangal","Silver Payal",Silver,19.69,84.00,455.00,63.27,2172.23,"Bank Transfer"
+387,B1383,2024-10-30,"Chatura Chanda","Gold Ring",Gold,16.89,7107.00,1048.00,3632.56,124717.79,UPI
+388,B1384,2025-12-05,"Zehaan Dayal","Silver Chain",Silver,82.80,102.00,556.00,270.05,9271.65,Card
+389,B1385,2024-08-07,"Waida Varughese","Silver Payal",Silver,84.45,70.00,107.00,180.56,6199.06,Card
+390,B1386,2025-05-17,"Yashvi Srinivasan","Gold Chain",Gold,8.27,5871.00,4154.00,1581.22,54288.39,UPI
+391,B1387,2025-06-18,"Ronith Setty","Silver Chain",Silver,96.61,106.00,133.00,311.21,10684.87,UPI
+392,B1388,2024-07-31,"Tara Tara","Gold Earrings",Gold,11.63,6939.00,1791.00,2474.75,84966.32,"Bank Transfer"
+393,B1389,2025-01-08,"Bhanumati Ghose","Silver Coin",Silver,97.72,75.00,145.00,224.22,7698.22,"Bank Transfer"
+394,B1390,2025-10-31,"Jeet Sharma","Silver Chain",Silver,55.03,107.00,492.00,191.41,6571.62,"Bank Transfer"
+395,B1391,2024-12-01,"Ganga Jayaraman","Silver Ring",Silver,97.27,88.00,890.00,283.49,9733.25,UPI
+396,B1392,2024-09-21,"Upma Chaudhary","Silver Payal",Silver,91.89,113.00,664.00,331.43,11379.00,UPI
+397,B1393,2024-10-12,"Ayush Korpal","Silver Chain",Silver,40.42,109.00,395.00,144.02,4944.80,Cash
+398,B1394,2025-01-11,"Sachi Peri","Silver Ring",Silver,12.73,94.00,504.00,51.02,1751.64,Cash
+399,B1395,2024-07-25,"Wyatt Saxena","Gold Ring",Gold,16.79,5885.00,4126.00,3088.05,106023.20,"Bank Transfer"
+400,B1396,2026-01-28,"Charan Taneja","Gold Earrings",Gold,11.50,6887.00,2251.00,2443.55,83895.05,Cash
+401,B1397,2025-02-05,"Christopher Raja","Silver Payal",Silver,62.80,75.00,303.00,150.39,5163.39,Cash
+402,B1398,2025-09-02,"Damini Pandit","Gold Ring",Gold,6.28,6256.00,1277.00,1216.94,41781.62,Cash
+403,B1399,2024-10-16,"Anika Devi","Silver Payal",Silver,56.74,73.00,722.00,145.92,5009.94,Card
+404,B1400,2024-11-16,"Ayush Hari","Gold Chain",Gold,2.98,7011.00,1905.00,683.93,23481.71,"Bank Transfer"
+405,B1401,2026-04-14,"Kamala Dugar","Gold Necklace",Gold,11.13,6055.00,2973.00,2110.95,72476.10,UPI
+406,B1402,2026-05-22,"Mekhala Verma","Gold Earrings",Gold,13.12,6729.00,3302.00,2747.59,94334.07,Card
+407,B1403,2024-11-20,"Ayush Buch","Gold Chain",Gold,2.49,6681.00,1671.00,549.20,18855.89,"Bank Transfer"
+408,B1404,2025-04-03,"Ganga Tandon","Silver Payal",Silver,10.45,83.00,731.00,47.95,1646.30,"Bank Transfer"
+409,B1405,2026-06-10,"Yash Sura","Silver Ring",Silver,10.38,83.00,398.00,37.79,1297.33,UPI
+410,B1406,2024-09-17,"Pranit Chandra","Silver Coin",Silver,46.02,97.00,514.00,149.34,5127.28,UPI
+411,B1407,2024-12-08,"Chameli Roy","Gold Necklace",Gold,19.99,7029.00,1689.00,4265.96,146464.67,Cash
+412,B1408,2024-12-20,"Gopal Kothari","Silver Coin",Silver,51.53,78.00,374.00,131.80,4525.14,UPI
+413,B1409,2025-03-15,"Amaira Kakar","Gold Necklace",Gold,16.35,5924.00,3183.00,3001.21,103041.61,UPI
+414,B1410,2026-04-28,"Arjun Kumer","Silver Payal",Silver,81.81,90.00,988.00,250.53,8601.43,"Bank Transfer"
+415,B1411,2025-01-09,"Pranit Mohan","Silver Chain",Silver,57.64,89.00,435.00,166.95,5731.91,"Bank Transfer"
+416,B1412,2025-07-06,"Christopher Reddy","Silver Ring",Silver,44.52,84.00,363.00,123.08,4225.76,Cash
+417,B1413,2025-09-19,"Chameli Magar","Silver Chain",Silver,50.73,87.00,335.00,142.46,4890.97,Card
+418,B1414,2025-06-12,"Odika Suri","Silver Ring",Silver,20.24,77.00,655.00,66.40,2279.88,UPI
+419,B1415,2026-07-12,"Sachi Prabhakar","Gold Ring",Gold,13.34,5989.00,1511.00,2442.13,83846.39,"Bank Transfer"
+420,B1416,2025-03-01,"Maanav Soni","Gold Ring",Gold,6.21,5855.00,4379.00,1222.16,41960.71,Cash
+421,B1417,2026-04-25,"Gautam Ahluwalia","Silver Ring",Silver,56.57,88.00,692.00,170.10,5840.26,Cash
+422,B1418,2024-12-29,"Hema Naidu","Gold Ring",Gold,18.58,6639.00,1128.00,3734.42,128215.04,UPI
+423,B1419,2024-12-22,"Damini Jain","Silver Chain",Silver,97.08,98.00,841.00,310.65,10665.49,UPI
+424,B1420,2025-09-30,"Frederick Tata","Gold Ring",Gold,10.78,6399.00,3037.00,2160.55,74178.77,Card
+425,B1421,2026-01-20,"Shravya Saxena","Silver Chain",Silver,59.14,91.00,670.00,181.55,6233.29,Cash
+426,B1422,2025-06-11,"Bachittar Trivedi","Gold Earrings",Gold,17.79,6185.00,2607.00,3379.14,116017.29,"Bank Transfer"
+427,B1423,2024-09-13,"Raksha Borde","Silver Chain",Silver,58.00,112.00,352.00,205.44,7053.44,Cash
+428,B1424,2024-12-13,"Tara Dâ€™Alia","Silver Coin",Silver,57.65,89.00,566.00,170.91,5867.76,Cash
+429,B1425,2026-05-31,"Radha Dhillon","Gold Necklace",Gold,7.46,6233.00,3103.00,1488.04,51089.22,Card
+430,B1426,2026-04-04,"Baghyawati Devan","Gold Ring",Gold,19.58,6884.00,3204.00,4139.78,142132.50,UPI
+431,B1427,2024-10-23,"Abha Chaudhry","Gold Ring",Gold,14.50,6318.00,3107.00,2841.54,97559.54,"Bank Transfer"
+432,B1428,2024-12-17,"Ojas Gulati","Gold Chain",Gold,16.39,6869.00,4522.00,3513.15,120618.06,"Bank Transfer"
+433,B1429,2025-02-16,"Manthan Dhawan","Gold Ring",Gold,14.61,6601.00,1304.00,2932.34,100676.95,UPI
+434,B1430,2025-05-18,"Faris Kala","Silver Payal",Silver,59.66,90.00,284.00,169.60,5823.00,Card
+435,B1431,2025-11-12,"Finn Dâ€™Alia","Silver Ring",Silver,59.01,96.00,715.00,191.40,6571.36,"Bank Transfer"
+436,B1432,2025-08-02,"Aadhya Sule","Silver Payal",Silver,10.95,102.00,542.00,49.77,1708.67,Cash
+437,B1433,2025-04-23,"Aachal Ramesh","Gold Chain",Gold,10.43,7080.00,4458.00,2349.07,80651.47,Cash
+438,B1434,2024-11-14,"Abeer Banik","Gold Earrings",Gold,9.34,6357.00,4555.00,1917.88,65847.26,Card
+439,B1435,2025-08-10,"Jeremiah Atwal","Gold Earrings",Gold,8.91,7192.00,2776.00,2005.70,68862.42,"Bank Transfer"
+440,B1436,2025-06-17,"Arunima Master","Gold Chain",Gold,14.54,7171.00,4231.00,3254.92,111752.26,UPI
+441,B1437,2025-03-22,"Varenya Pingle","Gold Ring",Gold,5.89,6150.00,3190.00,1182.40,40595.90,Cash
+442,B1438,2025-04-15,"Arya Mody","Gold Necklace",Gold,6.28,6486.00,2265.00,1289.91,44286.99,"Bank Transfer"
+443,B1439,2026-04-07,"Zayyan Pillai","Gold Ring",Gold,7.29,5931.00,4820.00,1441.71,49498.70,Card
+444,B1440,2026-02-16,"Ayush Muni","Silver Payal",Silver,88.12,83.00,302.00,228.48,7844.44,Card
+445,B1441,2025-05-29,"Chandran Prabhakar","Silver Payal",Silver,11.02,100.00,432.00,46.02,1580.02,Cash
+446,B1442,2024-11-16,"Jasmit Behl","Silver Payal",Silver,78.70,94.00,169.00,227.00,7793.80,Cash
+447,B1443,2025-08-17,"Ekalinga Pingle","Gold Chain",Gold,2.40,5819.00,4776.00,562.25,19303.85,"Bank Transfer"
+448,B1444,2024-08-18,"Chameli Parmar","Gold Ring",Gold,14.41,7163.00,2664.00,3176.48,109059.31,UPI
+449,B1445,2025-11-18,"Dayamai Saini","Gold Necklace",Gold,17.80,5909.00,3798.00,3269.35,112247.55,Cash
+450,B1446,2025-07-06,"Mohammed Master","Silver Ring",Silver,79.14,76.00,620.00,199.04,6833.68,UPI
+451,B1447,2024-11-17,"Jairaj Bedi","Gold Earrings",Gold,4.29,6630.00,1425.00,896.03,30763.73,"Bank Transfer"
+452,B1448,2025-11-01,"Hamsini Reddy","Silver Chain",Silver,44.14,101.00,562.00,150.60,5170.74,Cash
+453,B1449,2025-08-31,"Krish Joshi","Silver Ring",Silver,47.72,95.00,117.00,139.51,4789.91,UPI
+454,B1450,2024-09-22,"Jackson Choudhary","Gold Chain",Gold,4.93,6703.00,1652.00,1040.93,35738.72,"Bank Transfer"
+455,B1451,2025-02-02,"Ishaan Trivedi","Gold Chain",Gold,10.71,6352.00,2847.00,2126.31,73003.23,UPI
+456,B1452,2024-11-03,"Ijaya Dewan","Gold Earrings",Gold,16.50,5958.00,4339.00,3079.38,105725.38,UPI
+457,B1453,2026-04-19,"Yagnesh Bumb","Gold Ring",Gold,7.22,6115.00,3246.00,1421.89,48818.19,UPI
+458,B1454,2026-04-17,"Raghav Deep","Silver Chain",Silver,49.57,80.00,815.00,143.42,4924.02,Cash
+459,B1455,2026-01-17,"Ekiya Gupta","Silver Coin",Silver,89.67,108.00,441.00,303.76,10429.12,UPI
+460,B1456,2025-02-18,"Vanya Goyal","Silver Coin",Silver,64.77,116.00,642.00,244.66,8399.98,"Bank Transfer"
+461,B1457,2026-01-24,"Chanakya Desai","Silver Ring",Silver,98.74,91.00,862.00,295.42,10142.76,UPI
+462,B1458,2025-01-05,"Vasudha Grover","Gold Earrings",Gold,4.17,5835.00,4245.00,857.31,29434.26,Cash
+463,B1459,2024-12-16,"Keya Balan","Silver Coin",Silver,17.97,72.00,475.00,53.07,1821.91,Cash
+464,B1460,2025-06-15,"Reyansh Sastry","Gold Chain",Gold,16.56,6182.00,1546.00,3117.60,107037.52,Cash
+465,B1461,2026-05-13,"Gavin Rau","Silver Ring",Silver,88.96,86.00,349.00,239.99,8239.55,Card
+466,B1462,2025-12-10,"Wriddhish Cherian","Silver Ring",Silver,25.64,106.00,701.00,102.57,3521.41,Card
+467,B1463,2024-12-28,"Lavanya Peri","Silver Coin",Silver,94.84,75.00,549.00,229.86,7891.86,Card
+468,B1464,2024-11-18,"Ishita Garg","Gold Earrings",Gold,18.60,6595.00,3480.00,3784.41,129931.41,"Bank Transfer"
+469,B1465,2025-09-23,"Dakshesh Chandra","Silver Coin",Silver,18.30,98.00,309.00,63.07,2165.47,UPI
+470,B1466,2025-09-05,"Shravya Narayan","Gold Earrings",Gold,18.04,6366.00,4159.00,3570.05,122571.69,"Bank Transfer"
+471,B1467,2026-01-10,"Nimrat Kara","Gold Earrings",Gold,10.85,6511.00,2756.00,2202.01,75602.36,"Bank Transfer"
+472,B1468,2024-12-02,"Raghav Kamdar","Gold Ring",Gold,11.86,7015.00,4133.00,2619.93,89950.83,Card
+473,B1469,2026-07-10,"Hamsini Pau","Silver Payal",Silver,16.48,112.00,594.00,73.19,2512.95,Cash
+474,B1470,2024-10-13,"Jackson Sandal","Silver Payal",Silver,35.69,109.00,924.00,144.43,4958.64,Card
+475,B1471,2026-02-20,"Pavani Bhavsar","Silver Ring",Silver,53.78,88.00,158.00,146.72,5037.36,Card
+476,B1472,2025-04-03,"Caleb Subramanian","Silver Payal",Silver,89.37,85.00,788.00,251.53,8635.98,Cash
+477,B1473,2025-06-01,"Eta Goyal","Silver Payal",Silver,53.36,120.00,747.00,214.51,7364.71,Card
+478,B1474,2024-12-20,"Diya Saraf","Gold Necklace",Gold,17.22,6503.00,4998.00,3509.39,120489.05,Card
+479,B1475,2026-03-12,"Jackson Boase","Silver Chain",Silver,40.75,95.00,359.00,126.91,4357.16,Card
+480,B1476,2026-02-18,"Darsh Oak","Silver Chain",Silver,93.32,77.00,676.00,235.85,8097.49,Cash
+481,B1477,2024-12-13,"Wyatt Anne","Silver Payal",Silver,65.35,81.00,405.00,170.95,5869.30,Cash
+482,B1478,2025-07-06,"Janaki Rattan","Gold Earrings",Gold,5.49,7131.00,4534.00,1310.50,44993.69,"Bank Transfer"
+483,B1479,2026-04-02,"Abdul Sandhu","Gold Earrings",Gold,3.24,6764.00,1887.00,714.07,24516.43,UPI
+484,B1480,2025-05-22,"Tripti Mani","Silver Chain",Silver,38.03,92.00,545.00,121.31,4165.07,Card
+485,B1481,2025-06-24,"Sai Kaul","Silver Chain",Silver,90.91,111.00,669.00,322.80,11082.81,"Bank Transfer"
+486,B1482,2025-11-21,"Teerth Kadakia","Gold Earrings",Gold,19.99,6613.00,1310.00,4005.12,137508.99,UPI
+487,B1483,2025-03-19,"Elijah Majumdar","Silver Chain",Silver,81.33,70.00,584.00,188.31,6465.41,UPI
+488,B1484,2024-11-04,"Dalbir Sampath","Gold Earrings",Gold,17.49,6978.00,4578.00,3798.70,130421.92,Card
+489,B1485,2025-09-14,"Anya Bandi","Gold Ring",Gold,17.69,6717.00,3044.00,3656.03,125523.76,UPI
+490,B1486,2025-12-22,"Yamini Karpe","Silver Coin",Silver,66.22,86.00,185.00,176.40,6056.32,Cash
+491,B1487,2025-01-12,"Abeer Garde","Silver Payal",Silver,84.28,105.00,168.00,270.52,9287.92,UPI
+492,B1488,2024-08-11,"Luke Sridhar","Silver Chain",Silver,17.56,114.00,733.00,82.05,2816.89,UPI
+493,B1489,2025-10-17,"Charita Issac","Gold Chain",Gold,11.48,7188.00,4744.00,2617.87,89880.11,Cash
+494,B1490,2025-05-07,"Lakshmi Gala","Gold Earrings",Gold,9.39,6675.00,3965.00,1999.30,68642.55,Cash
+495,B1491,2026-01-10,"Yoshita Shankar","Silver Chain",Silver,71.97,115.00,163.00,253.19,8692.74,Cash
+496,B1492,2026-06-21,"Benjamin Vyas","Gold Earrings",Gold,9.62,6575.00,2902.00,1984.61,68138.11,Cash
+497,B1493,2026-04-04,"Bakhshi Roy","Silver Coin",Silver,30.14,77.00,143.00,73.91,2537.69,"Bank Transfer"
+498,B1494,2024-11-01,"Ekanta Kannan","Gold Ring",Gold,16.28,7162.00,3253.00,3595.51,123445.87,Card
+499,B1495,2024-10-11,"Ekbal Thaman","Gold Ring",Gold,7.18,6978.00,2604.00,1581.18,54287.22,Cash
+500,B1496,2026-01-24,"Neha Ahluwalia","Gold Earrings",Gold,4.99,5947.00,1287.00,928.88,31891.41,"Bank Transfer"
+501,B1497,2025-04-07,"Shivansh Madan","Silver Coin",Silver,78.18,97.00,872.00,253.66,8709.12,Card
+502,B1498,2024-08-05,"Manya Mannan","Silver Chain",Silver,81.35,115.00,735.00,302.71,10392.96,UPI
+503,B1499,2024-07-16,"Keya Sachar","Gold Chain",Gold,2.73,6457.00,1024.00,559.55,19211.16,Card
+504,B1500,2025-08-04,"Ria Chander","Silver Payal",Silver,22.91,70.00,621.00,66.74,2291.44,UPI
+505,B1501,2025-06-05,"Jhalak Jha","Silver Ring",Silver,81.58,94.00,691.00,250.79,8610.31,Cash
+506,B1502,2024-11-15,"Kiaan Kurian","Silver Payal",Silver,21.89,83.00,477.00,68.82,2362.69,UPI
+507,B1503,2025-12-09,"Veer Koshy","Silver Ring",Silver,62.51,113.00,997.00,241.82,8302.45,UPI
+508,B1504,2026-01-29,"Yashica Iyer","Silver Chain",Silver,51.32,75.00,802.00,139.53,4790.53,UPI
+509,B1505,2025-10-04,"Madhav Gulati","Silver Ring",Silver,59.00,106.00,367.00,198.63,6819.63,UPI
+510,B1506,2025-11-01,"Pranit Sampath","Gold Necklace",Gold,4.85,6078.00,4814.00,1028.77,35321.07,Cash
+511,B1507,2025-01-28,"Elijah Acharya","Silver Ring",Silver,76.00,116.00,373.00,275.67,9464.67,Cash
+512,B1508,2026-05-16,"Manan Prasad","Gold Necklace",Gold,10.38,6576.00,2248.00,2115.21,72622.09,"Bank Transfer"
+513,B1509,2024-08-07,"Aadhya Khurana","Gold Chain",Gold,14.43,6275.00,2126.00,2780.23,95454.48,Cash
+514,B1510,2024-08-20,"Garima Mall","Gold Necklace",Gold,3.79,6915.00,4697.00,927.15,31832.00,"Bank Transfer"
+515,B1511,2025-06-26,"Mekhala Ramesh","Silver Coin",Silver,33.56,70.00,174.00,75.70,2598.90,Cash
+516,B1512,2025-10-04,"Noah Malhotra","Silver Ring",Silver,15.24,75.00,337.00,44.40,1524.40,Cash
+517,B1513,2025-02-27,"Vrinda Chatterjee","Gold Chain",Gold,11.27,6316.00,4391.00,2267.17,77839.49,"Bank Transfer"
+518,B1514,2024-08-03,"Max Sankaran","Silver Chain",Silver,86.52,117.00,794.00,327.51,11244.35,Cash
+519,B1515,2025-12-07,"Upasna Tiwari","Silver Payal",Silver,55.73,100.00,966.00,196.17,6735.17,Cash
+520,B1516,2025-04-01,"Yuvraj Krish","Silver Ring",Silver,24.38,84.00,765.00,84.39,2897.31,Card
+521,B1517,2024-08-05,"Tanish Iyengar","Gold Ring",Gold,6.16,6814.00,1803.00,1313.32,45090.56,Cash
+522,B1518,2025-07-27,"Yatin Maharaj","Gold Chain",Gold,14.59,6554.00,2193.00,2934.48,100750.34,Card
+523,B1519,2024-10-25,"Mugdha Ram","Gold Ring",Gold,9.04,6794.00,3353.00,1943.12,66713.88,Cash
+524,B1520,2025-09-11,"Netra Sundaram","Silver Coin",Silver,46.94,84.00,800.00,142.29,4885.25,UPI
+525,B1521,2025-04-24,"Advay Joshi","Gold Chain",Gold,8.39,6841.00,4160.00,1846.68,63402.67,"Bank Transfer"
+526,B1522,2024-09-24,"Faras Warrior","Silver Payal",Silver,69.94,89.00,275.00,194.99,6694.65,UPI
+527,B1523,2025-10-30,"Nitesh Oommen","Gold Ring",Gold,15.75,6427.00,4072.00,3158.92,108456.17,UPI
+528,B1524,2026-05-24,"Naksh Char","Silver Coin",Silver,90.87,73.00,504.00,214.13,7351.64,Cash
+529,B1525,2025-03-16,"Radhika Bhatt","Gold Chain",Gold,3.61,6447.00,3006.00,788.39,27068.06,Card
+530,B1526,2026-03-11,"Deepa Dhawan","Gold Ring",Gold,17.64,6298.00,4949.00,3481.37,119527.09,Cash
+531,B1527,2024-09-27,"Saksham Chaudhary","Gold Necklace",Gold,7.82,6959.00,2579.00,1709.95,58708.33,"Bank Transfer"
+532,B1528,2025-06-13,"Imaran Warrior","Silver Ring",Silver,38.66,109.00,865.00,152.37,5231.31,Cash
+533,B1529,2026-02-13,"Rushil Dara","Silver Chain",Silver,14.88,82.00,529.00,52.47,1801.63,UPI
+534,B1530,2025-04-19,"Odika Nayak","Gold Ring",Gold,3.75,6607.00,3979.00,862.66,29617.91,"Bank Transfer"
+535,B1531,2025-11-25,"Aarush Viswanathan","Gold Earrings",Gold,16.19,5972.00,3095.00,2993.45,102775.13,Cash
+536,B1532,2025-11-10,"Gaurika Pai","Silver Coin",Silver,33.43,120.00,232.00,127.31,4370.91,UPI
+537,B1533,2025-03-18,"Farhan Khanna","Silver Coin",Silver,73.31,115.00,927.00,280.73,9638.38,Cash
+538,B1534,2026-05-20,"Wriddhish Kari","Gold Necklace",Gold,18.44,6459.00,4456.00,3706.80,127266.76,Cash
+539,B1535,2025-02-24,"Zinal Bhasin","Gold Ring",Gold,7.21,6688.00,2137.00,1510.72,51868.20,UPI
+540,B1536,2025-12-26,"Wakeeta Ramanathan","Silver Payal",Silver,55.60,86.00,306.00,152.63,5240.23,Card
+541,B1537,2025-06-05,"Devansh Magar","Gold Chain",Gold,8.80,6243.00,3524.00,1753.87,60216.27,UPI
+542,B1538,2025-03-26,"Peter Bhasin","Gold Earrings",Gold,7.33,6211.00,3264.00,1463.72,50254.35,UPI
+543,B1539,2026-01-18,"Chandani Butala","Silver Ring",Silver,60.67,120.00,547.00,234.82,8062.22,"Bank Transfer"
+544,B1540,2025-06-26,"Meera Desai","Silver Coin",Silver,23.23,85.00,240.00,66.44,2280.99,"Bank Transfer"
+545,B1541,2026-04-17,"Vedika Mohan","Gold Earrings",Gold,13.12,6398.00,3051.00,2609.78,89602.54,Card
+546,B1542,2025-11-25,"Janani Sarna","Silver Payal",Silver,23.89,90.00,721.00,86.13,2957.23,UPI
+547,B1543,2024-10-07,"Ekbal Soni","Gold Necklace",Gold,9.95,7025.00,1164.00,2131.88,73194.63,Cash
+548,B1544,2026-04-23,"Sudiksha Chowdhury","Silver Payal",Silver,32.02,74.00,323.00,80.77,2773.25,Card
+549,B1545,2025-03-10,"Triveni Chhabra","Gold Chain",Gold,4.52,6947.00,4450.00,1075.51,36925.95,Cash
+550,B1546,2025-09-01,"Barkha Hegde","Silver Payal",Silver,76.68,120.00,523.00,291.74,10016.34,Card
+551,B1547,2024-11-22,"Charan Agarwal","Gold Chain",Gold,16.90,6936.00,4486.00,3651.13,125355.53,"Bank Transfer"
+552,B1548,2025-07-10,"Eta Prabhu","Gold Chain",Gold,15.17,5934.00,2355.00,2771.21,95144.99,Cash
+553,B1549,2025-10-24,"Hiral Contractor","Silver Chain",Silver,96.00,98.00,381.00,293.67,10082.67,Card
+554,B1550,2025-12-15,"Faras Balan","Silver Payal",Silver,73.31,81.00,215.00,184.59,6337.70,Card
+555,B1551,2024-11-30,"Hitesh Sengupta","Gold Chain",Gold,19.67,6795.00,3766.00,4122.71,141546.36,"Bank Transfer"
+556,B1552,2025-08-20,"Nirja Contractor","Gold Ring",Gold,4.64,6668.00,2631.00,1007.12,34577.64,Cash
+557,B1553,2025-07-08,"Urvashi Garde","Gold Earrings",Gold,13.54,5875.00,4686.00,2527.01,86760.51,Card
+558,B1554,2025-09-23,"Shravya Sandal","Gold Ring",Gold,2.07,6016.00,2912.00,460.95,15826.07,Cash
+559,B1555,2026-03-21,"Aachal Chopra","Silver Payal",Silver,23.48,108.00,449.00,89.55,3074.39,Card
+560,B1556,2026-06-10,"Krish Walla","Silver Coin",Silver,67.63,74.00,257.00,157.85,5419.47,"Bank Transfer"
+561,B1557,2024-09-25,"Nitesh Verma","Silver Coin",Silver,29.76,88.00,487.00,93.18,3199.06,UPI
+562,B1558,2025-05-20,"Saksham Iyer","Silver Coin",Silver,20.51,90.00,755.00,78.03,2678.93,UPI
+563,B1559,2025-06-13,"Prisha Pandey","Silver Ring",Silver,42.09,98.00,123.00,127.43,4375.25,Card
+564,B1560,2024-09-22,"Yadavi Agarwal","Silver Coin",Silver,78.23,115.00,375.00,281.14,9652.59,Card
+565,B1561,2026-03-17,"Oviya Bhandari","Gold Chain",Gold,17.45,6698.00,1543.00,3552.69,121975.79,Cash
+566,B1562,2026-03-11,"Jeet Apte","Silver Chain",Silver,66.57,109.00,461.00,231.51,7948.64,Card
+567,B1563,2025-12-10,"Lopa Chander","Gold Ring",Gold,11.80,5979.00,3805.00,2230.72,76587.92,Card
+568,B1564,2026-03-21,"Vritti Soman","Gold Chain",Gold,16.72,6261.00,4674.00,3280.74,112638.66,"Bank Transfer"
+569,B1565,2024-08-13,"Chatura Krishnan","Gold Necklace",Gold,13.28,6623.00,1428.00,2681.44,92062.88,Cash
+570,B1566,2026-01-21,"Zinal Buch","Gold Necklace",Gold,16.97,6313.00,3154.00,3308.57,113594.18,"Bank Transfer"
+571,B1567,2025-03-11,"Wriddhish Chacko","Silver Ring",Silver,59.11,84.00,734.00,170.98,5870.22,Cash
+572,B1568,2025-10-25,"Yasti Rama","Gold Earrings",Gold,19.24,7183.00,3118.00,4239.57,145558.49,Card
+573,B1569,2025-08-11,"Fariq Garde","Gold Earrings",Gold,19.01,7135.00,1503.00,4114.18,141253.53,UPI
+574,B1570,2025-10-05,"Nilima Raja","Silver Coin",Silver,18.71,87.00,426.00,61.61,2115.38,UPI
+575,B1571,2025-03-17,"Andrew Swaminathan","Silver Payal",Silver,93.45,91.00,661.00,274.95,9439.90,"Bank Transfer"
+576,B1572,2024-12-08,"Ekiya Vig","Silver Coin",Silver,43.66,97.00,718.00,148.59,5101.61,UPI
+577,B1573,2025-04-24,"Ronith Rege","Silver Coin",Silver,88.95,89.00,825.00,262.25,9003.80,UPI
+578,B1574,2026-01-01,"Hemani Choudhry","Silver Ring",Silver,24.45,77.00,319.00,66.05,2267.70,Cash
+579,B1575,2025-05-16,"Balveer Balakrishnan","Silver Coin",Silver,31.67,84.00,816.00,104.29,3580.57,UPI
+580,B1576,2025-11-08,"Barkha Bhavsar","Gold Necklace",Gold,5.78,6080.00,1912.00,1111.63,38166.03,UPI
+581,B1577,2025-04-01,"Naveen Dhawan","Gold Ring",Gold,16.15,6652.00,1295.00,3261.74,111986.54,UPI
+582,B1578,2025-04-16,"Ekantika Thakkar","Silver Coin",Silver,63.12,74.00,640.00,159.33,5470.21,UPI
+583,B1579,2024-11-22,"Farhan Patil","Gold Ring",Gold,8.05,6078.00,1606.00,1516.02,52049.92,UPI
+584,B1580,2025-07-31,"Pavani Kakar","Gold Necklace",Gold,11.27,6305.00,2739.00,2213.89,76010.24,"Bank Transfer"
+585,B1581,2024-12-22,"Peter Ahuja","Silver Chain",Silver,95.90,114.00,123.00,331.67,11387.27,"Bank Transfer"
+586,B1582,2024-09-12,"Unnati Patil","Gold Ring",Gold,17.70,6052.00,3709.00,3324.88,114154.28,"Bank Transfer"
+587,B1583,2024-08-12,"Nathan Dubey","Silver Payal",Silver,58.44,74.00,567.00,146.75,5038.31,Card
+588,B1584,2026-07-05,"Radhika Sen","Gold Ring",Gold,3.09,6840.00,4013.00,754.46,25903.06,"Bank Transfer"
+589,B1585,2025-02-21,"Pranit More","Gold Ring",Gold,18.70,7168.00,1523.00,4066.94,139631.54,Cash
+590,B1586,2025-02-26,"Omkaar Parikh","Gold Ring",Gold,11.75,6142.00,1272.00,2203.22,75643.72,Cash
+591,B1587,2025-09-06,"Dalaja Raval","Silver Ring",Silver,24.92,115.00,188.00,91.61,3145.41,Card
+592,B1588,2024-07-24,"Zashil Wadhwa","Gold Ring",Gold,13.89,7102.00,2865.00,3045.35,104557.13,Card
+593,B1589,2025-08-11,"Gautam Munshi","Silver Ring",Silver,11.39,74.00,952.00,53.85,1848.71,Card
+594,B1590,2025-05-01,"Joshua Karnik","Gold Earrings",Gold,3.05,6350.00,4196.00,706.90,24270.40,Card
+595,B1591,2024-07-27,"Hitesh Gera","Silver Ring",Silver,75.19,91.00,711.00,226.60,7779.89,UPI
+596,B1592,2026-01-25,"Anirudh Sarin","Gold Earrings",Gold,3.05,6199.00,4853.00,712.80,24472.75,UPI
+597,B1593,2026-01-29,"Yatan Saini","Silver Coin",Silver,54.13,76.00,647.00,142.83,4903.71,"Bank Transfer"
+598,B1594,2024-12-20,"Guneet Goswami","Gold Necklace",Gold,11.86,5869.00,4200.00,2214.19,76020.53,"Bank Transfer"
+599,B1595,2025-09-08,"Divya Bakshi","Silver Payal",Silver,90.54,85.00,257.00,238.59,8191.49,Card
+600,B1596,2025-10-08,"Warda Karnik","Gold Earrings",Gold,17.05,7147.00,3063.00,3747.58,128666.93,Cash
+601,B1597,2026-03-03,"Indali Nori","Gold Earrings",Gold,9.60,5869.00,1300.00,1729.27,59371.67,Cash
+602,B1598,2024-10-27,"Sathvik Sodhi","Silver Coin",Silver,55.61,112.00,774.00,210.07,7212.39,UPI
+603,B1599,2025-02-19,"Meghana Chaudhry","Silver Coin",Silver,80.43,89.00,476.00,229.03,7863.30,Card
+604,B1600,2025-03-08,"Aditya Natt","Gold Necklace",Gold,9.65,7043.00,4815.00,2183.40,74963.35,UPI
+605,B1601,2026-01-30,"Isha Nayak","Silver Payal",Silver,97.41,103.00,214.00,307.42,10554.65,"Bank Transfer"
+606,B1602,2026-03-26,"Sachi Lad","Gold Necklace",Gold,19.72,6565.00,1315.00,3923.30,134700.10,UPI
+607,B1603,2024-08-05,"Falguni Kale","Silver Payal",Silver,76.37,94.00,938.00,243.50,8360.28,"Bank Transfer"
+608,B1604,2026-05-02,"Keya Bahri","Gold Earrings",Gold,11.34,5983.00,2071.00,2097.55,72015.77,Card
+609,B1605,2024-09-01,"Aarnav Shenoy","Gold Chain",Gold,10.48,5927.00,1989.00,1923.12,66027.08,Card
+610,B1606,2025-10-18,"Dev Thakur","Silver Chain",Silver,72.10,74.00,862.00,185.92,6383.32,"Bank Transfer"
+611,B1607,2025-08-23,"Frado Sabharwal","Silver Chain",Silver,45.45,113.00,789.00,177.75,6102.60,Card
+612,B1608,2025-09-01,"Tripti Sabharwal","Gold Ring",Gold,11.35,6844.00,4621.00,2469.01,84769.41,UPI
+613,B1609,2025-06-12,"Qushi Talwar","Gold Ring",Gold,15.31,6661.00,2730.00,3141.30,107851.21,"Bank Transfer"
+614,B1610,2025-02-04,"Neha Balasubramanian","Gold Chain",Gold,10.17,6292.00,3795.00,2033.54,69818.18,Card
+615,B1611,2024-11-29,"Urvashi Dhar","Gold Earrings",Gold,19.17,7159.00,3769.00,4230.21,145237.24,UPI
+616,B1612,2025-02-03,"Yahvi Joshi","Gold Necklace",Gold,8.21,6100.00,4244.00,1629.75,55954.75,UPI
+617,B1613,2024-10-29,"Panini Aggarwal","Gold Necklace",Gold,8.60,6399.00,3424.00,1753.66,60209.06,"Bank Transfer"
+618,B1614,2026-03-09,"Yashasvi Samra","Gold Earrings",Gold,18.06,7046.00,1707.00,3868.73,132826.49,"Bank Transfer"
+619,B1615,2024-11-14,"Dev Yogi","Gold Chain",Gold,8.18,6750.00,4750.00,1798.95,61763.95,Card
+620,B1616,2026-03-18,"Januja Lala","Silver Payal",Silver,96.29,115.00,333.00,342.19,11748.54,UPI
+621,B1617,2025-01-14,"Qushi Shanker","Gold Chain",Gold,9.95,6761.00,4172.00,2143.32,73587.27,Card
+622,B1618,2025-06-24,"Kashvi Bali","Gold Necklace",Gold,16.71,6255.00,4333.00,3265.62,112119.67,Cash
+623,B1619,2025-04-20,"Amruta Bala","Silver Coin",Silver,35.84,109.00,894.00,144.02,4944.58,Cash
+624,B1620,2026-02-03,"Yashoda Keer","Gold Earrings",Gold,5.13,6686.00,2647.00,1108.39,38054.57,Cash
+625,B1621,2025-03-28,"Ira Tandon","Silver Ring",Silver,66.94,103.00,435.00,219.89,7549.71,UPI
+626,B1622,2025-01-10,"Amaira Sarma","Gold Chain",Gold,17.29,6567.00,3109.00,3499.57,120152.00,"Bank Transfer"
+627,B1623,2025-10-16,"Unnati Solanki","Gold Chain",Gold,4.07,6949.00,2006.00,908.65,31197.08,Cash
+628,B1624,2025-08-07,"Yochana Minhas","Silver Payal",Silver,81.86,106.00,698.00,281.25,9656.41,"Bank Transfer"
+629,B1625,2024-10-19,"Agastya Kapadia","Silver Ring",Silver,93.44,75.00,173.00,215.43,7396.43,"Bank Transfer"
+630,B1626,2025-12-11,"Jagvi Bora","Silver Chain",Silver,41.54,72.00,568.00,106.77,3665.65,Card
+631,B1627,2026-06-13,"Avni Mittal","Silver Ring",Silver,46.58,102.00,948.00,170.97,5870.13,"Bank Transfer"
+632,B1628,2024-10-06,"Andrew Sethi","Silver Ring",Silver,93.79,110.00,694.00,330.33,11341.23,"Bank Transfer"
+633,B1629,2025-10-30,"Hredhaan Bhavsar","Gold Chain",Gold,14.28,6780.00,4096.00,3027.43,103941.83,Card
+634,B1630,2026-06-02,"Rishi Dar","Gold Chain",Gold,12.15,6621.00,4911.00,2560.68,87916.83,UPI
+635,B1631,2024-07-26,"Vasana Bhavsar","Silver Coin",Silver,74.18,110.00,870.00,270.89,9300.69,"Bank Transfer"
+636,B1632,2025-11-29,"Falan Yogi","Silver Payal",Silver,90.15,97.00,581.00,279.77,9605.32,UPI
+637,B1633,2026-01-23,"Vinaya Atwal","Silver Ring",Silver,42.48,84.00,198.00,112.99,3879.31,"Bank Transfer"
+638,B1634,2026-02-25,"Tristan Kalita","Gold Ring",Gold,8.52,6956.00,4069.00,1900.02,65234.14,UPI
+639,B1635,2025-09-20,"Raksha Sachdeva","Silver Payal",Silver,11.35,75.00,735.00,47.59,1633.84,"Bank Transfer"
+640,B1636,2025-10-10,"Suhani Bandi","Gold Ring",Gold,9.33,6119.00,2767.00,1795.72,61652.99,"Bank Transfer"
+641,B1637,2026-05-31,"Ridhi Karnik","Silver Chain",Silver,87.52,111.00,693.00,312.23,10719.95,"Bank Transfer"
+642,B1638,2025-05-11,"Chatresh Gulati","Silver Ring",Silver,68.78,79.00,429.00,175.88,6038.50,Cash
+643,B1639,2026-01-12,"Kavya Prashad","Gold Chain",Gold,12.07,5824.00,3876.00,2225.15,76396.83,UPI
+644,B1640,2026-06-01,"Anusha Gade","Silver Coin",Silver,97.70,102.00,217.00,305.47,10487.87,Cash
+645,B1641,2026-04-19,"Jeevika Tailor","Silver Payal",Silver,86.66,84.00,793.00,242.17,8314.61,UPI
+646,B1642,2025-12-26,"Yashoda Gulati","Silver Chain",Silver,14.56,99.00,543.00,59.53,2043.97,"Bank Transfer"
+647,B1643,2025-01-06,"Madhav Kapadia","Silver Chain",Silver,69.24,90.00,286.00,195.53,6713.13,"Bank Transfer"
+648,B1644,2024-10-22,"Champak Dada","Gold Necklace",Gold,3.03,6771.00,3244.00,712.80,24472.93,Cash
+649,B1645,2025-09-11,"Raghav Guha","Silver Coin",Silver,91.85,108.00,466.00,311.57,10697.37,Cash
+650,B1646,2024-08-31,"Upadhriti Oak","Gold Ring",Gold,10.59,6977.00,1399.00,2258.56,77543.99,Card
+651,B1647,2025-02-21,"Saksham Memon","Silver Ring",Silver,29.29,80.00,290.00,79.00,2712.20,Cash
+652,B1648,2025-10-01,"Chandran Sachdeva","Silver Coin",Silver,87.62,112.00,290.00,303.10,10406.54,UPI
+653,B1649,2026-04-09,"Kevin Mishra","Silver Ring",Silver,38.00,74.00,540.00,100.56,3452.56,Card
+654,B1650,2024-07-29,"Bhavika Soni","Silver Chain",Silver,96.79,111.00,704.00,343.43,11791.12,Card
+655,B1651,2026-02-17,"Aarnav Padmanabhan","Gold Chain",Gold,13.08,5866.00,4029.00,2422.69,83178.97,"Bank Transfer"
+656,B1652,2025-10-06,"Anita Bhat","Silver Coin",Silver,63.61,76.00,451.00,158.56,5443.92,"Bank Transfer"
+657,B1653,2024-12-03,"Zayyan Mody","Silver Coin",Silver,23.93,88.00,794.00,87.00,2986.84,Cash
+658,B1654,2025-04-12,"Zilmil Kakar","Silver Coin",Silver,44.12,71.00,121.00,97.61,3351.13,UPI
+659,B1655,2024-10-28,"Hitesh Chanda","Silver Chain",Silver,59.56,75.00,392.00,145.77,5004.77,Cash
+660,B1656,2025-01-25,"Wazir Talwar","Gold Necklace",Gold,11.18,6767.00,1254.00,2307.27,79216.33,UPI
+661,B1657,2024-12-27,"Charles Modi","Silver Chain",Silver,81.47,103.00,302.00,260.80,8954.21,UPI
+662,B1658,2026-03-10,"Baghyawati Jayaraman","Gold Ring",Gold,4.81,6059.00,2723.00,956.00,32822.79,"Bank Transfer"
+663,B1659,2024-11-18,"Abdul Kant","Gold Chain",Gold,8.05,7038.00,2241.00,1766.91,60663.81,"Bank Transfer"
+664,B1660,2024-11-18,"Bhanumati Mutti","Silver Coin",Silver,92.62,107.00,283.00,305.80,10499.14,UPI
+665,B1661,2026-03-26,"Udarsh Iyengar","Silver Ring",Silver,98.02,102.00,853.00,325.53,11176.57,Card
+666,B1662,2025-12-05,"Veda Deep","Silver Payal",Silver,92.37,70.00,659.00,213.75,7338.65,Card
+667,B1663,2025-04-21,"Champak Contractor","Gold Necklace",Gold,2.66,5882.00,3639.00,578.55,19863.67,"Bank Transfer"
+668,B1664,2026-05-15,"Mitesh Nayar","Silver Coin",Silver,62.56,105.00,727.00,218.87,7514.67,Cash
+669,B1665,2025-09-03,"Baghyawati Naidu","Silver Ring",Silver,66.87,115.00,325.00,240.45,8255.50,Cash
+670,B1666,2025-08-26,"Harshil Sarin","Silver Ring",Silver,78.31,77.00,794.00,204.72,7028.59,Cash
+671,B1667,2025-08-04,"Niharika Kalita","Gold Necklace",Gold,3.67,6562.00,2025.00,783.23,26890.77,Card
+672,B1668,2025-07-11,"Omkaar Modi","Silver Coin",Silver,18.74,98.00,656.00,74.78,2567.30,UPI
+673,B1669,2025-09-30,"Triveni Desai","Silver Ring",Silver,25.09,76.00,984.00,86.73,2977.57,Card
+674,B1670,2025-04-01,"Yutika Edwin","Silver Ring",Silver,39.23,116.00,919.00,164.09,5633.77,"Bank Transfer"
+675,B1671,2026-02-04,"Nikita Shankar","Gold Necklace",Gold,3.06,6327.00,3308.00,680.06,23348.68,UPI
+676,B1672,2025-08-22,"Nihal Ghosh","Silver Chain",Silver,94.40,104.00,604.00,312.65,10734.25,Cash
+677,B1673,2025-10-18,"Ladli Raval","Gold Chain",Gold,2.53,6306.00,4292.00,607.39,20853.57,Cash
+678,B1674,2026-04-10,"Anirudh Mane","Silver Payal",Silver,92.40,96.00,646.00,285.49,9801.89,Cash
+679,B1675,2025-09-11,"Farhan Bawa","Gold Chain",Gold,7.97,6619.00,3141.00,1676.83,57571.26,"Bank Transfer"
+680,B1676,2025-09-20,"Bhavya Ratta","Silver Ring",Silver,42.16,109.00,441.00,151.09,5187.53,Cash
+681,B1677,2024-12-15,"Peter Madan","Gold Earrings",Gold,2.50,6344.00,1952.00,534.36,18346.36,Card
+682,B1678,2026-04-27,"Lucky Seth","Silver Ring",Silver,31.07,99.00,281.00,100.71,3457.64,Card
+683,B1679,2025-08-26,"Dev Chad","Gold Earrings",Gold,6.92,5890.00,2831.00,1307.69,44897.49,UPI
+684,B1680,2025-04-19,"Anusha Bal","Silver Ring",Silver,89.24,99.00,688.00,285.68,9808.44,"Bank Transfer"
+685,B1681,2024-09-07,"Yashasvi Pingle","Gold Necklace",Gold,10.64,6851.00,4781.00,2330.27,80005.91,"Bank Transfer"
+686,B1682,2025-10-22,"Urmi Tella","Silver Ring",Silver,46.73,98.00,627.00,156.20,5362.74,"Bank Transfer"
+687,B1683,2025-05-18,"Yatan Kala","Silver Coin",Silver,29.66,90.00,138.00,84.22,2891.62,"Bank Transfer"
+688,B1684,2026-05-21,"Pooja Yogi","Gold Earrings",Gold,15.03,6311.00,2629.00,2924.50,100407.83,UPI
+689,B1685,2025-12-18,"Patrick Lall","Silver Coin",Silver,78.57,108.00,918.00,282.11,9685.67,"Bank Transfer"
+690,B1686,2025-09-09,"Manthan Munshi","Gold Necklace",Gold,5.19,6339.00,1802.00,1041.04,35742.45,Card
+691,B1687,2026-03-20,"Kavya Yohannan","Silver Coin",Silver,11.14,75.00,195.00,30.91,1061.41,"Bank Transfer"
+692,B1688,2026-02-25,"Ishanvi Shenoy","Silver Chain",Silver,74.26,80.00,722.00,199.88,6862.68,Cash
+693,B1689,2025-01-09,"Widisha Tank","Silver Payal",Silver,62.60,76.00,906.00,169.91,5833.51,Card
+694,B1690,2025-08-06,"Isha Guha","Silver Chain",Silver,34.04,108.00,355.00,120.94,4152.26,Cash
+695,B1691,2026-03-05,"Isha Narain","Silver Coin",Silver,35.92,110.00,745.00,140.89,4837.09,Cash
+696,B1692,2025-01-24,"Yashoda Vala","Silver Payal",Silver,23.96,105.00,773.00,98.66,3387.46,Cash
+697,B1693,2024-08-27,"Devansh Rajagopalan","Gold Necklace",Gold,16.31,7040.00,1013.00,3475.06,119310.46,"Bank Transfer"
+698,B1694,2025-11-03,"Ekavir Bath","Gold Ring",Gold,16.73,6771.00,4862.00,3544.22,121685.05,Card
+699,B1695,2026-03-07,"Anusha Nagy","Silver Chain",Silver,67.41,96.00,424.00,206.86,7102.22,Cash
+700,B1696,2026-01-09,"Aadi Sharaf","Gold Chain",Gold,17.12,6790.00,2381.00,3558.77,122184.57,Card
+701,B1697,2024-12-09,"Michael Prashad","Silver Chain",Silver,37.46,97.00,637.00,128.12,4398.74,"Bank Transfer"
+702,B1698,2025-12-23,"Finn Kanda","Silver Payal",Silver,84.95,114.00,632.00,309.49,10625.79,UPI
+703,B1699,2025-10-24,"Nimrat Goswami","Silver Coin",Silver,29.08,80.00,994.00,99.61,3420.01,Cash
+704,B1700,2025-10-23,"Mahika Natt","Silver Coin",Silver,58.80,96.00,476.00,183.62,6304.42,Cash
+705,B1701,2026-04-23,"Avi Koshy","Gold Necklace",Gold,7.59,7114.00,4739.00,1762.03,60496.29,UPI
+706,B1702,2025-08-02,"Anjali Garg","Silver Payal",Silver,10.60,90.00,125.00,32.37,1111.37,Card
+707,B1703,2025-11-15,"Vinaya Hari","Gold Chain",Gold,7.24,6079.00,2977.00,1409.67,48398.63,Card
+708,B1704,2025-08-20,"Shivansh Memon","Gold Chain",Gold,9.41,6153.00,2237.00,1804.10,61940.83,Card
+709,B1705,2025-08-31,"Aarini Kala","Gold Earrings",Gold,11.51,6355.00,1587.00,2241.99,76975.04,"Bank Transfer"
+710,B1706,2025-04-06,"Joshua Bains","Silver Payal",Silver,32.21,88.00,965.00,113.98,3913.46,UPI
+711,B1707,2026-01-30,"Saumya Borah","Silver Ring",Silver,48.58,70.00,425.00,114.77,3940.37,Card
+712,B1708,2025-12-16,"Rehaan Nagarajan","Gold Chain",Gold,11.18,7087.00,2396.00,2448.86,84077.52,"Bank Transfer"
+713,B1709,2025-12-01,"George Venkataraman","Gold Chain",Gold,3.27,5892.00,3009.00,668.28,22944.12,"Bank Transfer"
+714,B1710,2025-07-22,"Udyati Nagar","Gold Ring",Gold,8.45,6819.00,1055.00,1760.27,60435.82,"Bank Transfer"
+715,B1711,2024-09-15,"Eesha Aurora","Gold Necklace",Gold,4.19,6664.00,1832.00,892.62,30646.78,UPI
+716,B1712,2026-04-08,"Fariq Batra","Gold Ring",Gold,16.61,5882.00,3331.00,3030.93,104061.95,UPI
+717,B1713,2025-07-25,"Vasudha Raja","Gold Necklace",Gold,12.00,6051.00,1706.00,2229.54,76547.54,UPI
+718,B1714,2025-01-16,"Balhaar Koshy","Silver Ring",Silver,65.58,80.00,367.00,168.40,5781.80,UPI
+719,B1715,2025-10-11,"Ryan Sathe","Silver Ring",Silver,32.60,110.00,420.00,120.18,4126.18,Cash
+720,B1716,2025-04-16,"Warhi Apte","Gold Necklace",Gold,16.27,6787.00,1618.00,3361.27,115403.76,UPI
+721,B1717,2026-02-04,"Ekantika Luthra","Silver Chain",Silver,90.05,98.00,417.00,277.26,9519.16,"Bank Transfer"
+722,B1718,2026-04-18,"Udarsh Merchant","Gold Earrings",Gold,5.22,7088.00,2184.00,1175.50,40358.86,Card
+723,B1719,2025-02-04,"Udyati Rastogi","Gold Ring",Gold,5.59,6415.00,3411.00,1178.13,40448.98,Card
+724,B1720,2026-05-14,"Jason Chaudhuri","Silver Coin",Silver,90.74,103.00,737.00,302.50,10385.72,Card
+725,B1721,2026-05-15,"Damyanti Sibal","Gold Earrings",Gold,11.68,5908.00,4370.00,2201.26,75576.70,UPI
+726,B1722,2025-01-03,"Arunima Dayal","Silver Payal",Silver,52.14,70.00,801.00,133.52,4584.32,"Bank Transfer"
+727,B1723,2026-01-18,"Forum Chaudhari","Silver Payal",Silver,80.43,70.00,464.00,182.82,6276.92,Cash
+728,B1724,2025-05-13,"Jonathan Behl","Silver Chain",Silver,54.63,108.00,380.00,188.40,6468.44,"Bank Transfer"
+729,B1725,2026-02-12,"Arya Sengupta","Gold Necklace",Gold,8.06,6178.00,1120.00,1527.44,52442.12,Card
+730,B1726,2024-09-26,"Shravya Dhar","Silver Payal",Silver,36.81,120.00,144.00,136.84,4698.04,Cash
+731,B1727,2026-05-10,"Logan Tailor","Gold Ring",Gold,16.22,6646.00,3153.00,3328.53,114279.65,Card
+732,B1728,2025-07-10,"Hitesh Solanki","Gold Chain",Gold,5.34,6296.00,2429.00,1081.49,37131.13,UPI
+733,B1729,2026-02-24,"Ekavir Vora","Silver Coin",Silver,48.95,88.00,400.00,141.23,4848.83,Cash
+734,B1730,2026-02-13,"Ojasvi Tank","Gold Ring",Gold,2.72,5832.00,1840.00,531.09,18234.13,UPI
+735,B1731,2025-01-14,"Janya Bajwa","Gold Ring",Gold,18.24,6817.00,1389.00,3771.93,129503.01,"Bank Transfer"
+736,B1732,2025-09-23,"Gauri Kamdar","Gold Ring",Gold,7.32,6484.00,4479.00,1558.26,53500.14,Cash
+737,B1733,2025-04-16,"Advay Chandra","Silver Coin",Silver,46.41,86.00,483.00,134.23,4608.49,"Bank Transfer"
+738,B1734,2026-04-13,"Jacob Bali","Silver Coin",Silver,99.60,89.00,892.00,292.69,10049.09,Cash
+739,B1735,2026-06-18,"Hemang Sharma","Gold Chain",Gold,13.47,6106.00,3346.00,2567.81,88161.63,Card
+740,B1736,2025-02-08,"Christopher Trivedi","Gold Chain",Gold,17.25,6768.00,3919.00,3620.01,124287.01,Cash
+741,B1737,2025-12-31,"Xalak Bandi","Gold Necklace",Gold,14.65,6674.00,1939.00,2991.39,102704.49,Cash
+742,B1738,2025-09-05,"Lila Tandon","Silver Payal",Silver,18.17,108.00,760.00,81.67,2804.03,Cash
+743,B1739,2026-04-24,"Prisha Wagle","Gold Ring",Gold,15.51,6771.00,4534.00,3286.57,112838.78,Card
+744,B1740,2025-10-05,"Bhavani Nayak","Gold Necklace",Gold,11.51,5918.00,2878.00,2129.83,73124.01,"Bank Transfer"
+745,B1741,2025-02-15,"Meera Bandi","Silver Ring",Silver,68.65,117.00,794.00,264.78,9090.83,UPI
+746,B1742,2026-04-05,"Gopal Tandon","Silver Ring",Silver,34.85,87.00,183.00,96.45,3311.40,Cash
+747,B1743,2026-04-24,"Jackson Agrawal","Gold Earrings",Gold,4.12,5983.00,1061.00,771.33,26482.29,"Bank Transfer"
+748,B1744,2025-03-23,"Aditya Nagy","Gold Necklace",Gold,2.28,6265.00,4491.00,563.26,19338.46,UPI
+749,B1745,2025-08-07,"Zehaan Shankar","Gold Ring",Gold,17.00,6463.00,3100.00,3389.13,116360.13,"Bank Transfer"
+750,B1746,2025-03-23,"Eshana Gandhi","Silver Chain",Silver,17.05,96.00,713.00,70.49,2420.29,"Bank Transfer"
+751,B1747,2026-06-09,"Zashil Vig","Silver Payal",Silver,87.76,95.00,293.00,258.91,8889.11,Cash
+752,B1748,2025-12-04,"Zashil Murthy","Silver Ring",Silver,92.32,118.00,674.00,347.03,11914.79,"Bank Transfer"
+753,B1749,2025-12-22,"Devansh Sarkar","Gold Necklace",Gold,16.94,6556.00,1468.00,3375.80,115902.44,Card
+754,B1750,2024-11-05,"Naksh Mitra","Gold Necklace",Gold,19.42,6871.00,3948.00,4121.48,141504.30,Cash
+755,B1751,2025-01-03,"Pallavi Varghese","Gold Ring",Gold,11.16,6100.00,4948.00,2190.72,75214.72,UPI
+756,B1752,2025-12-25,"Umang Pau","Silver Payal",Silver,89.66,94.00,237.00,259.95,8924.99,Card
+757,B1753,2025-02-19,"Yadavi Lal","Gold Earrings",Gold,13.86,6053.00,1636.00,2565.92,88096.50,UPI
+758,B1754,2024-07-21,"Lila Mital","Silver Ring",Silver,20.39,70.00,862.00,68.68,2357.98,Cash
+759,B1755,2026-06-01,"Ekaja Master","Silver Coin",Silver,11.74,75.00,117.00,29.92,1027.42,UPI
+760,B1756,2026-02-09,"Ekansh Misra","Silver Chain",Silver,15.14,84.00,707.00,59.36,2038.12,UPI
+761,B1757,2025-07-28,"Chaman Kale","Silver Coin",Silver,61.87,89.00,143.00,169.48,5818.91,UPI
+762,B1758,2025-09-07,"Tanish Dayal","Gold Necklace",Gold,16.45,6706.00,3066.00,3401.39,116781.09,UPI
+763,B1759,2026-05-04,"Maanav Choudhary","Gold Ring",Gold,6.09,6015.00,3839.00,1214.11,41684.46,UPI
+764,B1760,2025-06-09,"Gunbir Gala","Silver Payal",Silver,31.25,76.00,945.00,99.60,3419.60,Cash
+765,B1761,2025-04-02,"Kashish Sane","Silver Ring",Silver,29.01,108.00,312.00,103.35,3548.43,Card
+766,B1762,2025-12-11,"Amaira Goda","Silver Chain",Silver,30.77,96.00,664.00,108.54,3726.46,UPI
+767,B1763,2024-09-02,"Manan Ganesan","Gold Ring",Gold,8.52,6347.00,2812.00,1706.65,58595.09,UPI
+768,B1764,2025-01-21,"Aditya Muni","Gold Necklace",Gold,17.08,6597.00,3164.00,3475.22,119315.98,Card
+769,B1765,2025-01-19,"Hredhaan Subramanian","Gold Ring",Gold,2.29,6873.00,4521.00,607.81,20867.98,"Bank Transfer"
+770,B1766,2025-10-23,"Vasatika Sandal","Silver Coin",Silver,30.45,84.00,549.00,93.20,3200.00,"Bank Transfer"
+771,B1767,2025-12-30,"Jhalak Kakar","Gold Ring",Gold,16.22,6419.00,3822.00,3238.15,111176.33,UPI
+772,B1768,2025-02-02,"Laban Deep","Silver Ring",Silver,28.07,95.00,930.00,107.90,3704.55,UPI
+773,B1769,2025-08-10,"Faqid Kapoor","Gold Earrings",Gold,7.37,5845.00,4683.00,1432.82,49193.47,"Bank Transfer"
+774,B1770,2024-12-24,"Joshua Thaman","Gold Chain",Gold,5.85,6642.00,1369.00,1206.74,41431.44,UPI
+775,B1771,2026-07-03,"Siddharth Deo","Silver Ring",Silver,43.63,117.00,777.00,176.45,6058.16,"Bank Transfer"
+776,B1772,2025-02-01,"Sanya Das","Gold Necklace",Gold,4.48,6944.00,2898.00,1020.21,35027.33,"Bank Transfer"
+777,B1773,2026-05-08,"Oliver Andra","Gold Ring",Gold,19.27,5942.00,4267.00,3563.08,122332.42,UPI
+778,B1774,2026-01-13,"Gaurangi Kuruvilla","Silver Coin",Silver,93.36,92.00,225.00,264.42,9078.54,"Bank Transfer"
+779,B1775,2024-08-07,"Meghana Raghavan","Silver Payal",Silver,43.43,104.00,974.00,164.72,5655.44,UPI
+780,B1776,2025-06-08,"Abhiram Kothari","Silver Coin",Silver,37.54,86.00,138.00,100.99,3467.43,Cash
+781,B1777,2026-03-08,"Janaki Raj","Gold Earrings",Gold,6.13,6529.00,3351.00,1301.21,44674.98,"Bank Transfer"
+782,B1778,2025-04-10,"Faris Bala","Gold Earrings",Gold,9.47,6646.00,2297.00,1957.04,67191.66,"Bank Transfer"
+783,B1779,2026-06-24,"Neel Bhalla","Gold Chain",Gold,4.87,5982.00,1755.00,926.62,31813.96,UPI
+784,B1780,2025-04-17,"Falak Saraf","Gold Necklace",Gold,17.09,7096.00,4763.00,3781.01,129814.65,Cash
+785,B1781,2025-06-26,"Manthan Cherian","Gold Earrings",Gold,5.57,6707.00,4974.00,1269.96,43601.95,Card
+786,B1782,2025-03-09,"Advay Sura","Silver Chain",Silver,19.01,92.00,857.00,78.18,2684.10,"Bank Transfer"
+787,B1783,2025-12-11,"Matthew Sodhi","Silver Ring",Silver,56.17,96.00,910.00,189.07,6491.39,"Bank Transfer"
+788,B1784,2026-06-27,"Advika Nori","Gold Chain",Gold,11.72,6888.00,2102.00,2484.88,85314.24,Card
+789,B1785,2025-06-22,"Noah Goyal","Gold Earrings",Gold,2.14,7034.00,2441.00,524.81,18018.57,"Bank Transfer"
+790,B1786,2025-07-14,"Fitan Singh","Gold Earrings",Gold,3.05,6153.00,4302.00,692.06,23760.71,Card
+791,B1787,2026-03-02,"Ekaraj Wagle","Silver Payal",Silver,56.44,93.00,110.00,160.77,5519.69,UPI
+792,B1788,2026-05-19,"Harsh Mukherjee","Silver Ring",Silver,44.97,79.00,462.00,120.44,4135.07,UPI
+793,B1789,2026-05-08,"Ikshita Johal","Silver Chain",Silver,34.08,82.00,833.00,108.83,3736.39,"Bank Transfer"
+794,B1790,2026-01-28,"Chatura Goel","Silver Payal",Silver,53.14,101.00,598.00,178.95,6144.09,Cash
+795,B1791,2026-04-01,"Arunima Ravel","Silver Coin",Silver,73.37,104.00,450.00,242.41,8322.89,"Bank Transfer"
+796,B1792,2025-03-27,"Yagnesh Mand","Silver Coin",Silver,28.78,108.00,379.00,104.62,3591.86,"Bank Transfer"
+797,B1793,2024-12-01,"Onveer Chand","Silver Ring",Silver,76.81,85.00,625.00,214.62,7368.47,Cash
+798,B1794,2026-06-03,"Harrison Bawa","Silver Chain",Silver,34.37,105.00,288.00,116.91,4013.76,"Bank Transfer"
+799,B1795,2024-09-15,"Max Agrawal","Silver Payal",Silver,91.63,92.00,980.00,282.30,9692.26,"Bank Transfer"
+800,B1796,2025-12-30,"Krishna Solanki","Silver Ring",Silver,21.49,71.00,775.00,69.02,2369.81,Cash
+801,B1797,2025-04-09,"Hema Sathe","Silver Payal",Silver,36.41,78.00,973.00,114.39,3927.37,UPI
+802,B1798,2025-11-24,"Neelima Kota","Silver Coin",Silver,82.74,77.00,325.00,200.88,6896.86,"Bank Transfer"
+803,B1799,2025-01-27,"Raagini Parsa","Gold Ring",Gold,7.46,6020.00,2148.00,1411.72,48468.92,"Bank Transfer"
+804,B1800,2025-01-06,"Dayita Chaudhry","Gold Ring",Gold,6.71,6558.00,2803.00,1404.22,48211.40,Card
+805,B1801,2025-12-26,"Zaid Gaba","Gold Chain",Gold,10.47,5851.00,4930.00,1985.70,68175.67,"Bank Transfer"
+806,B1802,2025-05-21,"Lekha Chandra","Silver Chain",Silver,31.54,74.00,399.00,81.99,2814.95,"Bank Transfer"
+807,B1803,2026-06-28,"Sneha Bhasin","Gold Earrings",Gold,19.03,6674.00,4729.00,3952.06,135687.28,Card
+808,B1804,2025-09-24,"Anusha Rout","Silver Chain",Silver,21.31,101.00,471.00,78.70,2702.01,Card
+809,B1805,2026-01-21,"Inaya Raj","Silver Coin",Silver,23.91,75.00,208.00,60.04,2061.29,Cash
+810,B1806,2026-02-26,"Logan Bhandari","Gold Chain",Gold,13.72,6989.00,3469.00,2980.74,102338.82,Cash
+811,B1807,2026-04-09,"Geetika Nanda","Gold Chain",Gold,5.00,6986.00,4798.00,1191.84,40919.84,"Bank Transfer"
+812,B1808,2026-05-30,"Falan Lala","Silver Chain",Silver,30.97,82.00,377.00,87.50,3004.04,Cash
+813,B1809,2025-08-28,"Bishakha Pandya","Silver Chain",Silver,80.25,101.00,816.00,267.64,9188.89,Card
+814,B1810,2025-05-04,"Chandani Varughese","Gold Necklace",Gold,4.33,6647.00,3364.00,964.37,33109.88,Card
+815,B1811,2025-08-19,"Bimala Raval","Silver Chain",Silver,69.67,79.00,161.00,169.95,5834.88,Card
+816,B1812,2024-11-21,"Faraj Korpal","Gold Earrings",Gold,3.17,7060.00,4565.00,808.36,27753.56,UPI
+817,B1813,2024-07-22,"Hema Dutta","Silver Chain",Silver,16.00,100.00,929.00,75.87,2604.87,"Bank Transfer"
+818,B1814,2026-05-08,"Ganga Prakash","Gold Necklace",Gold,7.25,6515.00,2934.00,1505.03,51672.78,Card
+819,B1815,2025-06-20,"Shivani Merchant","Silver Chain",Silver,17.99,87.00,927.00,74.76,2566.89,UPI
+820,B1816,2025-12-19,"Onveer Ghosh","Silver Chain",Silver,78.50,107.00,489.00,266.65,9155.15,Cash
+821,B1817,2025-09-11,"Jairaj Atwal","Silver Coin",Silver,46.94,108.00,725.00,173.84,5968.36,Card
+822,B1818,2025-08-21,"Ryan Sule","Silver Chain",Silver,53.16,82.00,756.00,153.45,5268.57,"Bank Transfer"
+823,B1819,2025-10-26,"Dhriti Soman","Gold Necklace",Gold,10.54,6273.00,2126.00,2047.30,70290.72,Cash
+824,B1820,2026-05-20,"William Raja","Gold Ring",Gold,15.89,5903.00,2414.00,2886.38,99099.05,Card
+825,B1821,2025-11-18,"Mitesh Chana","Silver Chain",Silver,23.02,89.00,485.00,76.01,2609.79,"Bank Transfer"
+826,B1822,2024-11-11,"Jatin Yadav","Silver Payal",Silver,11.47,74.00,470.00,39.56,1358.34,Cash
+827,B1823,2025-07-23,"Xavier Bose","Gold Earrings",Gold,11.95,5904.00,2081.00,2179.01,74812.81,Card
+828,B1824,2026-06-20,"Yasti Trivedi","Silver Ring",Silver,86.54,104.00,465.00,283.95,9749.11,UPI
+829,B1825,2025-03-14,"Harrison Tata","Silver Ring",Silver,56.74,94.00,853.00,185.60,6372.16,UPI
+830,B1826,2024-10-03,"Aarnav Raghavan","Silver Chain",Silver,54.53,86.00,445.00,154.04,5288.62,"Bank Transfer"
+831,B1827,2025-05-31,"Idika Nigam","Silver Chain",Silver,94.51,92.00,181.00,266.28,9142.20,Card
+832,B1828,2025-12-29,"Vrinda Seth","Gold Earrings",Gold,12.58,6829.00,1982.00,2636.72,90527.54,Cash
+833,B1829,2025-06-18,"Girik Seshadri","Gold Necklace",Gold,7.27,6513.00,1731.00,1472.42,50552.93,"Bank Transfer"
+834,B1830,2026-06-27,"Nihal Srinivasan","Silver Ring",Silver,81.37,93.00,746.00,249.40,8562.81,Card
+835,B1831,2024-12-05,"Leela Walla","Silver Ring",Silver,44.59,97.00,280.00,138.16,4743.39,Card
+836,B1832,2025-01-10,"Tripti Shetty","Gold Chain",Gold,4.83,6830.00,3053.00,1081.26,37123.16,Cash
+837,B1833,2024-12-03,"Yahvi Vaidya","Silver Coin",Silver,84.34,109.00,294.00,284.61,9771.67,UPI
+838,B1834,2024-11-21,"Zehaan Bhargava","Silver Chain",Silver,45.20,120.00,289.00,171.39,5884.39,Cash
+839,B1835,2024-10-09,"Bhavani Bajwa","Silver Ring",Silver,39.62,91.00,850.00,133.66,4589.08,"Bank Transfer"
+840,B1836,2026-07-04,"Hemangini Kumar","Silver Ring",Silver,55.28,105.00,884.00,200.65,6889.05,Card
+841,B1837,2025-12-22,"Upkaar Borde","Gold Chain",Gold,2.72,6666.00,3201.00,639.98,21972.50,UPI
+842,B1838,2025-02-21,"Nidhi Ghosh","Gold Chain",Gold,12.80,5903.00,4894.00,2413.57,82865.97,Cash
+843,B1839,2025-03-20,"Upkaar Magar","Silver Coin",Silver,88.62,116.00,384.00,319.92,10983.84,Cash
+844,B1840,2025-05-27,"Prisha Chacko","Gold Ring",Gold,15.64,6585.00,1996.00,3149.56,108134.96,UPI
+845,B1841,2026-03-05,"Yutika Ganguly","Gold Earrings",Gold,13.51,6956.00,1420.00,2861.87,98257.43,UPI
+846,B1842,2026-01-04,"Ranbir Pant","Silver Chain",Silver,61.39,108.00,276.00,207.18,7113.30,UPI
+847,B1843,2026-03-03,"Oscar Barad","Silver Ring",Silver,68.01,120.00,619.00,263.41,9043.61,Cash
+848,B1844,2025-08-12,"Nirja Yohannan","Silver Coin",Silver,12.25,96.00,437.00,48.39,1661.39,"Bank Transfer"
+849,B1845,2026-03-06,"Chatresh Mital","Silver Payal",Silver,23.99,83.00,723.00,81.43,2795.60,"Bank Transfer"
+850,B1846,2024-11-02,"Ekapad Mody","Gold Ring",Gold,7.43,6208.00,1997.00,1443.67,49566.11,Cash
+851,B1847,2025-04-12,"Wridesh Rau","Gold Earrings",Gold,5.19,6352.00,1981.00,1048.44,35996.32,"Bank Transfer"
+852,B1848,2024-09-03,"Oviya Sibal","Silver Ring",Silver,77.08,71.00,957.00,192.89,6622.57,Card
+853,B1849,2025-05-12,"Bhanumati Swaminathan","Gold Earrings",Gold,5.70,7036.00,1952.00,1261.72,43318.92,"Bank Transfer"
+854,B1850,2026-01-28,"Hemang Ramakrishnan","Silver Ring",Silver,57.78,84.00,793.00,169.40,5815.92,Card
+855,B1851,2025-11-23,"Yashvi Dey","Gold Chain",Gold,13.93,6863.00,1182.00,2903.51,99687.10,Card
+856,B1852,2025-09-03,"Ansh Pandit","Gold Chain",Gold,19.99,6503.00,2094.00,3962.67,136051.64,"Bank Transfer"
+857,B1853,2024-12-12,"Warinder Atwal","Silver Coin",Silver,53.74,92.00,216.00,154.80,5314.88,Cash
+858,B1854,2025-10-21,"Ekantika Chauhan","Silver Coin",Silver,95.72,119.00,515.00,357.17,12262.85,UPI
+859,B1855,2026-03-28,"Jagvi Sawhney","Gold Chain",Gold,10.28,6260.00,3368.00,2031.62,69752.42,Cash
+860,B1856,2025-08-05,"Chaaya Khalsa","Silver Coin",Silver,91.01,109.00,222.00,304.26,10446.35,"Bank Transfer"
+861,B1857,2026-01-13,"Dayamai Aurora","Silver Chain",Silver,66.71,76.00,753.00,174.69,5997.65,UPI
+862,B1858,2024-12-03,"Hitesh Upadhyay","Silver Chain",Silver,98.08,73.00,314.00,224.22,7698.06,"Bank Transfer"
+863,B1859,2026-06-12,"Laban Saraf","Gold Ring",Gold,2.12,6762.00,2703.00,511.15,17549.59,UPI
+864,B1860,2025-09-29,"Ikbal Hans","Gold Ring",Gold,17.76,6714.00,1174.00,3612.44,124027.08,Card
+865,B1861,2025-09-25,"Hemal Sane","Gold Chain",Gold,4.51,5830.00,2242.00,856.06,29391.36,"Bank Transfer"
+866,B1862,2026-05-02,"Laksh Ranganathan","Silver Payal",Silver,14.77,71.00,605.00,49.61,1703.28,"Bank Transfer"
+867,B1863,2025-01-06,"Girindra Narain","Gold Ring",Gold,13.12,6769.00,1371.00,2705.41,92885.69,"Bank Transfer"
+868,B1864,2025-12-10,"Wakeeta Sachar","Silver Ring",Silver,31.01,77.00,782.00,95.09,3264.86,Cash
+869,B1865,2024-09-01,"Andrew Munshi","Silver Chain",Silver,22.99,75.00,177.00,57.04,1958.29,UPI
+870,B1866,2025-02-14,"Ikshita Swamy","Gold Ring",Gold,18.97,6542.00,3238.00,3820.19,131159.93,Cash
+871,B1867,2025-10-24,"Ekalinga Lalla","Silver Chain",Silver,57.66,109.00,572.00,205.71,7062.65,Cash
+872,B1868,2026-05-15,"Anay Krishnamurthy","Silver Payal",Silver,15.96,88.00,758.00,64.87,2227.35,"Bank Transfer"
+873,B1869,2026-02-22,"Yadavi Oommen","Silver Chain",Silver,18.33,97.00,646.00,72.72,2496.73,Cash
+874,B1870,2025-05-27,"Chaaya Wable","Gold Ring",Gold,5.61,5810.00,4564.00,1114.74,38272.84,Card
+875,B1871,2024-09-23,"Aadi Chana","Gold Chain",Gold,9.35,6123.00,1839.00,1772.67,60861.72,UPI
+876,B1872,2026-03-18,"Prisha Basak","Gold Earrings",Gold,4.52,5875.00,3646.00,906.03,31107.03,UPI
+877,B1873,2025-05-31,"Adweta Kant","Gold Necklace",Gold,15.75,6974.00,3149.00,3389.68,116379.18,Card
+878,B1874,2024-12-09,"Triveni Rau","Silver Ring",Silver,25.25,93.00,593.00,88.24,3029.49,UPI
+879,B1875,2025-01-03,"Bakhshi Som","Gold Chain",Gold,19.14,5893.00,2700.00,3464.76,118956.78,"Bank Transfer"
+880,B1876,2025-04-14,"Upkaar Kashyap","Silver Coin",Silver,19.97,95.00,509.00,72.18,2478.33,Cash
+881,B1877,2024-07-24,"Charita Deshmukh","Gold Earrings",Gold,5.87,6280.00,1726.00,1157.69,39747.29,UPI
+882,B1878,2025-04-11,"Gayathri Dyal","Gold Ring",Gold,8.85,7011.00,2818.00,1945.96,66811.31,Card
+883,B1879,2025-11-08,"Megha Suresh","Silver Payal",Silver,17.51,83.00,945.00,71.95,2470.28,UPI
+884,B1880,2025-02-02,"Imaran Sandhu","Gold Chain",Gold,18.36,7034.00,3609.00,3982.60,136735.84,Card
+885,B1881,2025-04-27,"Ethan Lal","Silver Payal",Silver,86.90,82.00,467.00,227.78,7820.58,Card
+886,B1882,2024-09-25,"Chanakya Lalla","Gold Earrings",Gold,4.15,6969.00,4152.00,992.20,34065.55,Cash
+887,B1883,2026-02-09,"Mitesh Dayal","Silver Coin",Silver,67.72,89.00,634.00,199.83,6860.91,UPI
+888,B1884,2026-01-08,"Fitan Verma","Silver Chain",Silver,95.63,109.00,412.00,325.07,11160.74,Cash
+889,B1885,2025-09-18,"Maya Kale","Gold Ring",Gold,14.02,7024.00,1420.00,2996.89,102893.37,"Bank Transfer"
+890,B1886,2025-01-25,"Parth Chandra","Gold Ring",Gold,13.81,6769.00,3061.00,2896.23,99437.12,"Bank Transfer"
+891,B1887,2025-09-24,"Simon Singhal","Silver Chain",Silver,55.33,106.00,557.00,192.66,6614.64,Card
+892,B1888,2025-03-04,"Vedika Agate","Gold Earrings",Gold,8.33,6335.00,1583.00,1630.61,55984.16,Card
+893,B1889,2026-02-06,"Qarin Lall","Gold Earrings",Gold,12.64,6542.00,4955.00,2629.38,90275.26,"Bank Transfer"
+894,B1890,2024-08-28,"Isaiah Nath","Silver Payal",Silver,97.65,117.00,991.00,372.48,12788.53,"Bank Transfer"
+895,B1891,2024-08-14,"Harish Goda","Gold Chain",Gold,9.26,6230.00,3425.00,1833.44,62948.24,"Bank Transfer"
+896,B1892,2025-09-05,"Vasatika Raj","Gold Chain",Gold,19.80,6038.00,2224.00,3653.29,125429.69,Card
+897,B1893,2024-11-12,"Harita Memon","Silver Ring",Silver,19.78,70.00,639.00,60.71,2084.31,"Bank Transfer"
+898,B1894,2025-12-08,"Girik Bera","Gold Ring",Gold,6.58,6844.00,2314.00,1420.43,48767.95,"Bank Transfer"
+899,B1895,2026-01-26,"Raagini Varty","Gold Chain",Gold,18.12,5836.00,4430.00,3305.35,113483.67,Card
+900,B1896,2024-08-11,"Krish Krish","Silver Ring",Silver,87.16,87.00,404.00,239.61,8226.53,"Bank Transfer"
+901,B1897,2024-12-07,"Edhitha Baria","Gold Ring",Gold,11.41,6010.00,4971.00,2206.35,75751.45,Cash
+902,B1898,2025-06-15,"Vyanjana Purohit","Gold Necklace",Gold,5.52,6829.00,4749.00,1273.35,43718.43,"Bank Transfer"
+903,B1899,2025-06-23,"Ubika Joshi","Silver Coin",Silver,38.20,94.00,901.00,134.75,4626.55,Cash
+904,B1900,2025-09-19,"Ishwar Keer","Silver Payal",Silver,12.04,93.00,229.00,40.46,1389.18,UPI
+905,B1901,2024-09-26,"Eta Hegde","Gold Necklace",Gold,15.53,6397.00,4156.00,3105.04,106606.45,UPI
+906,B1902,2025-07-20,"Gopal Pathak","Gold Necklace",Gold,10.52,6749.00,1937.00,2188.09,75124.57,"Bank Transfer"
+907,B1903,2024-10-25,"Oni Kapoor","Gold Earrings",Gold,18.13,6615.00,4234.00,3724.92,127888.87,"Bank Transfer"
+908,B1904,2025-08-29,"Ucchal Raman","Gold Chain",Gold,14.45,6207.00,1072.00,2722.89,93486.04,Cash
+909,B1905,2025-10-29,"Charan Minhas","Silver Payal",Silver,63.93,112.00,852.00,240.36,8252.52,Cash
+910,B1906,2025-03-16,"Ekantika Devan","Silver Chain",Silver,64.65,106.00,188.00,211.23,7252.13,Cash
+911,B1907,2025-11-24,"Tanveer Bawa","Silver Chain",Silver,22.40,75.00,358.00,61.14,2099.14,Cash
+912,B1908,2024-07-15,"Radhika Sura","Gold Necklace",Gold,12.52,6004.00,1342.00,2295.36,78807.44,UPI
+913,B1909,2025-08-27,"Jasmit Rastogi","Gold Ring",Gold,16.52,7030.00,1536.00,3530.15,121201.75,"Bank Transfer"
+914,B1910,2025-12-25,"Amruta Patel","Gold Earrings",Gold,18.20,6376.00,2749.00,3563.77,122355.97,"Bank Transfer"
+915,B1911,2025-04-18,"Baljiwan Saini","Gold Necklace",Gold,9.61,6576.00,4122.00,2019.52,69336.88,Card
+916,B1912,2024-09-27,"Manya Patil","Gold Chain",Gold,10.21,6978.00,2294.00,2206.18,75745.56,Card
+917,B1913,2025-12-13,"Ojas Shankar","Gold Necklace",Gold,7.81,6378.00,1194.00,1530.19,52536.37,"Bank Transfer"
+918,B1914,2025-10-22,"Omisha Kata","Silver Ring",Silver,77.72,89.00,662.00,227.37,7806.45,UPI
+919,B1915,2026-05-30,"Yadavi Kohli","Gold Chain",Gold,3.72,6806.00,3832.00,874.51,30024.83,UPI
+920,B1916,2025-04-25,"Jagdish Mammen","Gold Chain",Gold,18.09,6645.00,4676.00,3746.52,128630.57,UPI
+921,B1917,2025-11-04,"Lakshmi Kuruvilla","Silver Coin",Silver,42.97,115.00,746.00,170.63,5858.18,"Bank Transfer"
+922,B1918,2026-04-11,"Watika Madan","Gold Necklace",Gold,10.04,6174.00,1003.00,1889.70,64879.66,Cash
+923,B1919,2026-02-02,"Anthony Mander","Silver Payal",Silver,27.72,91.00,195.00,81.53,2799.05,UPI
+924,B1920,2026-01-23,"Baghyawati Dhar","Gold Chain",Gold,2.68,6184.00,3374.00,598.41,20545.53,"Bank Transfer"
+925,B1921,2025-02-16,"Noah Bali","Silver Ring",Silver,73.34,117.00,328.00,267.26,9176.04,Card
+926,B1922,2025-01-12,"Omkaar Deshpande","Silver Coin",Silver,23.54,87.00,370.00,72.54,2490.52,Cash
+927,B1923,2026-03-18,"Christopher Parekh","Gold Earrings",Gold,3.78,6999.00,4475.00,927.94,31859.16,Card
+928,B1924,2024-10-29,"Gautami Mane","Silver Chain",Silver,81.29,116.00,787.00,306.50,10523.14,UPI
+929,B1925,2024-08-10,"Krish Rai","Silver Payal",Silver,86.32,77.00,827.00,224.21,7697.85,UPI
+930,B1926,2024-09-14,"Upma Behl","Gold Chain",Gold,7.20,6713.00,2703.00,1531.10,52567.70,Card
+931,B1927,2025-07-26,"Timothy Dugar","Silver Ring",Silver,12.62,79.00,585.00,47.46,1629.44,Card
+932,B1928,2025-01-29,"Amara Nagarajan","Silver Payal",Silver,88.25,85.00,393.00,236.83,8131.08,Card
+933,B1929,2025-12-29,"Keya Gulati","Silver Payal",Silver,31.81,78.00,593.00,92.23,3166.41,UPI
+934,B1930,2025-10-13,"Qadim Lala","Silver Payal",Silver,58.17,85.00,486.00,162.91,5593.36,Card
+935,B1931,2024-09-06,"Aditya Sha","Silver Coin",Silver,49.94,114.00,392.00,182.55,6267.71,Cash
+936,B1932,2026-03-23,"Ekani Ramakrishnan","Silver Payal",Silver,99.32,109.00,530.00,340.68,11696.56,Card
+937,B1933,2025-11-14,"Pratyush Sha","Silver Ring",Silver,67.69,103.00,310.00,218.46,7500.53,Cash
+938,B1934,2026-01-30,"Samaksh Virk","Gold Earrings",Gold,13.09,6398.00,1637.00,2561.60,87948.42,Cash
+939,B1935,2026-01-03,"Daksh Palla","Gold Earrings",Gold,9.98,6418.00,3506.00,2026.73,69584.37,UPI
+940,B1936,2025-07-11,"Krish Puri","Gold Earrings",Gold,4.00,7073.00,1111.00,882.09,30285.09,Card
+941,B1937,2026-03-21,"Triveni Chana","Gold Ring",Gold,6.29,6123.00,1194.00,1191.23,40898.90,Cash
+942,B1938,2025-07-12,"Bimala Comar","Silver Coin",Silver,38.63,82.00,241.00,102.26,3510.92,UPI
+943,B1939,2025-01-27,"Anita Varughese","Silver Coin",Silver,81.67,72.00,426.00,189.19,6495.43,UPI
+944,B1940,2026-02-16,"Ekanta Sangha","Gold Necklace",Gold,8.32,6917.00,1912.00,1783.84,61245.28,"Bank Transfer"
+945,B1941,2024-09-05,"Nidhi Loke","Gold Ring",Gold,19.01,6779.00,2580.00,3943.46,135392.25,Cash
+946,B1942,2026-01-26,"Falan Gala","Silver Ring",Silver,80.23,108.00,513.00,275.34,9453.18,Card
+947,B1943,2024-11-16,"Zilmil Varma","Silver Ring",Silver,71.48,78.00,770.00,190.36,6535.80,Cash
+948,B1944,2025-12-03,"Onkar Pall","Gold Necklace",Gold,10.30,5900.00,3010.00,1913.40,65693.40,UPI
+949,B1945,2024-10-23,"Sai Seth","Silver Coin",Silver,22.02,110.00,399.00,84.64,2905.84,Cash
+950,B1946,2026-04-30,"Zansi Nagi","Silver Ring",Silver,51.87,112.00,207.00,180.49,6196.93,Cash
+951,B1947,2024-08-26,"Praneel Hari","Gold Earrings",Gold,11.85,6091.00,4938.00,2313.49,79429.84,UPI
+952,B1948,2024-09-21,"Joshua Chowdhury","Gold Ring",Gold,3.06,6120.00,2350.00,632.32,21709.52,UPI
+953,B1949,2026-05-12,"Janaki Pall","Gold Earrings",Gold,9.55,6870.00,2145.00,2032.61,69786.11,Cash
+954,B1950,2025-09-14,"Quincy Bala","Gold Chain",Gold,15.30,7117.00,1430.00,3309.60,113629.70,"Bank Transfer"
+955,B1951,2026-05-25,"Anay Basu","Gold Ring",Gold,3.97,6674.00,3382.00,896.33,30774.11,"Bank Transfer"
+956,B1952,2025-06-25,"Anjali Deol","Gold Chain",Gold,10.80,7012.00,3242.00,2369.15,81340.75,Card
+957,B1953,2025-04-02,"Nachiket Bhalla","Silver Ring",Silver,26.20,92.00,598.00,90.25,3098.65,"Bank Transfer"
+958,B1954,2025-07-22,"Varsha Rao","Silver Payal",Silver,72.31,89.00,827.00,217.88,7480.47,Card
+959,B1955,2024-12-06,"Tarak Kalla","Gold Chain",Gold,14.29,6352.00,3191.00,2818.83,96779.91,"Bank Transfer"
+960,B1956,2025-10-29,"Manthan Sanghvi","Silver Chain",Silver,22.67,88.00,176.00,65.13,2236.09,UPI
+961,B1957,2026-01-03,"Charvi Barman","Gold Ring",Gold,9.78,7148.00,4172.00,2222.38,76301.82,Cash
+962,B1958,2024-11-27,"Rudra Raman","Gold Ring",Gold,6.51,6113.00,3862.00,1309.73,44967.36,"Bank Transfer"
+963,B1959,2025-01-21,"Dayamai Choudhury","Silver Coin",Silver,54.22,86.00,288.00,148.53,5099.45,Card
+964,B1960,2026-05-28,"Timothy Subramaniam","Silver Chain",Silver,93.23,119.00,887.00,359.44,12340.81,"Bank Transfer"
+965,B1961,2025-07-19,"Qarin Chanda","Silver Chain",Silver,64.02,114.00,764.00,241.87,8304.15,Card
+966,B1962,2025-12-26,"Watika Parekh","Gold Necklace",Gold,9.50,5851.00,2685.00,1748.09,60017.59,UPI
+967,B1963,2025-05-11,"Oliver Mani","Gold Ring",Gold,18.39,6139.00,3020.00,3477.49,119393.70,Cash
+968,B1964,2024-11-15,"Kevin Sen","Gold Necklace",Gold,16.78,6560.00,2219.00,3368.87,115664.67,Card
+969,B1965,2025-09-01,"Robert Khare","Gold Necklace",Gold,6.06,6695.00,4514.00,1352.57,46438.27,UPI
+970,B1966,2026-07-07,"Tristan Sule","Silver Ring",Silver,56.03,98.00,761.00,187.56,6439.50,UPI
+971,B1967,2025-04-05,"Lila Dhingra","Gold Chain",Gold,13.95,6108.00,2342.00,2626.46,90175.06,Card
+972,B1968,2025-02-12,"Ekanta Mani","Silver Payal",Silver,98.35,98.00,836.00,314.23,10788.53,Card
+973,B1969,2025-09-27,"Yochana Mani","Silver Chain",Silver,34.05,104.00,386.00,117.82,4045.02,"Bank Transfer"
+974,B1970,2025-03-25,"Maanas Subramaniam","Silver Coin",Silver,28.46,103.00,551.00,104.47,3586.85,"Bank Transfer"
+975,B1971,2026-05-17,"Qarin Mandal","Gold Necklace",Gold,17.40,7076.00,2000.00,3753.67,128876.07,Card
+976,B1972,2025-03-01,"Pranav Prasad","Silver Payal",Silver,88.59,91.00,851.00,267.38,9180.07,UPI
+977,B1973,2025-05-21,"Frado Sarkar","Gold Earrings",Gold,17.10,7006.00,3472.00,3698.24,126972.84,Cash
+978,B1974,2025-02-26,"Thomas Roy","Silver Chain",Silver,13.96,75.00,611.00,49.74,1707.74,Card
+979,B1975,2025-03-11,"Chaaya Sama","Silver Chain",Silver,47.80,118.00,468.00,183.25,6291.65,Cash
+980,B1976,2024-08-24,"Bhanumati Nazareth","Gold Chain",Gold,11.96,6271.00,1513.00,2295.42,78809.58,UPI
+981,B1977,2025-07-23,"Ojasvi Dyal","Silver Coin",Silver,36.33,96.00,498.00,119.57,4105.25,UPI
+982,B1978,2026-06-26,"Adweta Sandhu","Silver Ring",Silver,61.08,112.00,114.00,208.65,7163.61,Card
+983,B1979,2025-04-03,"Peter Chadha","Silver Coin",Silver,16.22,89.00,604.00,61.43,2109.01,"Bank Transfer"
+984,B1980,2026-05-02,"Noah Morar","Gold Earrings",Gold,19.10,5929.00,2587.00,3474.93,119305.83,Cash
+985,B1981,2025-11-19,"Omaja Bajwa","Silver Ring",Silver,17.41,77.00,738.00,62.36,2140.93,Cash
+986,B1982,2026-06-17,"Quincy Basak","Gold Ring",Gold,9.16,6761.00,2976.00,1947.20,66853.96,"Bank Transfer"
+987,B1983,2025-09-27,"Jonathan Dayal","Gold Chain",Gold,13.89,6486.00,3177.00,2798.03,96065.57,Cash
+988,B1984,2026-03-23,"Aadi Dixit","Silver Ring",Silver,59.62,87.00,455.00,169.26,5811.20,UPI
+989,B1985,2025-08-01,"Chanchal Manda","Silver Payal",Silver,31.55,95.00,289.00,98.59,3384.84,Cash
+990,B1986,2025-08-22,"Madhavi Mukhopadhyay","Gold Necklace",Gold,11.95,6054.00,2478.00,2244.70,77068.00,UPI
+991,B1987,2025-08-06,"Christopher Batta","Gold Earrings",Gold,8.20,6426.00,4204.00,1706.92,58604.12,UPI
+992,B1988,2025-11-24,"Tara Grewal","Gold Necklace",Gold,6.50,6269.00,3077.00,1314.76,45140.26,Card
+993,B1989,2026-02-25,"Ishanvi Mann","Silver Chain",Silver,21.67,102.00,674.00,86.53,2970.87,UPI
+994,B1990,2025-05-20,"Yashasvi Krishnamurthy","Gold Chain",Gold,15.42,5973.00,3103.00,2856.20,98062.86,"Bank Transfer"
+995,B1991,2025-11-29,"Chakrika Tella","Gold Chain",Gold,19.68,6401.00,1107.00,3812.36,130891.04,Card
+996,B1992,2024-09-25,"Wishi Chada","Gold Earrings",Gold,10.61,6995.00,4344.00,2356.83,80917.78,"Bank Transfer"
+997,B1993,2024-10-29,"Devansh Swamy","Silver Coin",Silver,39.78,82.00,463.00,111.75,3836.71,Card
+998,B1994,2025-05-31,"Yahvi Agrawal","Silver Coin",Silver,78.29,84.00,801.00,221.32,7598.68,"Bank Transfer"
+999,B1995,2026-03-11,"Girindra Ramaswamy","Gold Earrings",Gold,4.40,6788.00,1403.00,938.11,32208.31,UPI
+1000,B1996,2025-08-29,"Advika Narula","Silver Payal",Silver,47.69,89.00,980.00,156.73,5381.14,Card
